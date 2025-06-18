@@ -1,0 +1,2152 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<title>Privacy Policy &#8211; DataForensics &#8211; We Can Track Your Stolen Funds.</title>
+<meta name='robots' content='max-image-preview:large' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<link rel="alternate" type="application/rss+xml" title="DataForensics - We Can Track Your Stolen Funds. &raquo; Feed" href="feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="DataForensics - We Can Track Your Stolen Funds. &raquo; Comments Feed" href="comments/feed/index.html" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.data-forensics.de\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.1"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\ud83d\udd25","\ud83d\udc26\u200b\ud83d\udd25")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style id='cf-frontend-style-inline-css'>
+@font-face {
+	font-family: 'SharpGrotesk';
+	font-weight: 400;
+	src: url('wp-content/uploads/2024/04/SharpGrotesk-Book25.otf') format('OpenType');
+}
+@font-face {
+	font-family: 'SharpGrotesk';
+	font-weight: 500;
+	src: url('wp-content/uploads/2024/04/SharpGrotesk-Medium25.otf') format('OpenType');
+}
+@font-face {
+	font-family: 'SharpGrotesk';
+	font-weight: 400;
+	src: url('wp-content/uploads/2024/04/SharpGrotesk-Book25.otf') format('OpenType');
+}
+@font-face {
+	font-family: 'SharpGrotesk';
+	font-weight: 500;
+	src: url('wp-content/uploads/2024/04/SharpGrotesk-Medium25.otf') format('OpenType');
+}
+@font-face {
+	font-family: 'SharpGrotesk-Book25';
+	font-weight: 400;
+	src: url('wp-content/uploads/2024/04/SharpGrotesk-Book25.otf') format('OpenType');
+}
+@font-face {
+	font-family: 'SharpGrotesk-Book25';
+	font-weight: 500;
+	src: url('wp-content/uploads/2024/04/SharpGrotesk-Medium25.otf') format('OpenType');
+}
+</style>
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.9.4' media='all' />
+<link rel='stylesheet' id='bootstrap-css-css' href='wp-content/plugins/wp-ai-assistant/public/css/bootstrap.min.css?ver=5.3.3' media='all' />
+<link rel='stylesheet' id='fontawesome-css-css' href='wp-content/plugins/wp-ai-assistant/public/css/all.min.css?ver=6.5.2' media='all' />
+<link rel='stylesheet' id='ai-assistant-css-css' href='wp-content/plugins/wp-ai-assistant/public/css/style.css?ver=1.0.7' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.21.5' media='all' />
+<link rel='stylesheet' id='swiper-css' href='wp-content/plugins/elementor/assets/lib/swiper/css/swiper.min.css?ver=5.3.6' media='all' />
+<link rel='stylesheet' id='elementor-post-7-css' href='wp-content/uploads/elementor/css/post-7.css?ver=1744733376' media='all' />
+<link rel='stylesheet' id='elementor-pro-css' href='wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.21.0' media='all' />
+<link rel='stylesheet' id='elementor-post-4016-css' href='wp-content/uploads/elementor/css/post-4016.css?ver=1744772804' media='all' />
+<link rel='stylesheet' id='elementor-post-2479-css' href='wp-content/uploads/elementor/css/post-2479.css?ver=1744733377' media='all' />
+<link rel='stylesheet' id='elementor-post-2472-css' href='wp-content/uploads/elementor/css/post-2472.css?ver=1744733377' media='all' />
+<script id="breeze-prefetch-js-extra">
+var breeze_prefetch = {"local_url":"https:\/\/www.data-forensics.de","ignore_remote_prefetch":"1","ignore_list":["\/wp-admin\/"]};
+</script>
+<script src="wp-content/plugins/breeze/assets/js/js-front-end/breeze-prefetch-links.min.js?ver=2.1.7" id="breeze-prefetch-js"></script>
+<link rel="https://api.w.org/" href="wp-json/index.html" /><link rel="alternate" title="JSON" type="application/json" href="wp-json/wp/v2/pages/4016" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.data-forensics.de/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.8.1" />
+<link rel="canonical" href="index.html?p=4016" />
+<link rel='shortlink' href='index.html?p=4016' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="wp-json/oembed/1.0/embed?url=https:%252F%252Fwww.data-forensics.de%252Fprivacy-policy%252F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="wp-json/oembed/1.0/embed?url=https:%252F%252Fwww.data-forensics.de%252Fprivacy-policy%252F&amp;format=xml" />
+
+		<!-- GTM Container Loader By GTM Server Side plugin -->
+		<script>!function(){"use strict";function l(e){for(var t=e,r=0,n=document.cookie.split(";");r<n.length;r++){var o=n[r].split("=");if(o[0].trim()===t)return o[1]}}function s(e){return localStorage.getItem(e)}function u(e){return window[e]}function d(e,t){e=document.querySelector(e);return t?null==e?void 0:e.getAttribute(t):null==e?void 0:e.textContent}var e=window,t=document,r="script",n="dataLayer",o="N7XDMBBH",a="https://sgtm.data-forensics.de",i="",c="yphvgniw",E="cookie",I="_sbp",v="",g=!1;try{var g=!!E&&(m=navigator.userAgent,!!(m=new RegExp("Version/([0-9._]+)(.*Mobile)?.*Safari.*").exec(m)))&&16.4<=parseFloat(m[1]),A="stapeUserId"===E,f=g&&!A?function(e,t,r){void 0===t&&(t="");var n={cookie:l,localStorage:s,jsVariable:u,cssSelector:d},t=Array.isArray(t)?t:[t];if(e&&n[e])for(var o=n[e],a=0,i=t;a<i.length;a++){var c=i[a],c=r?o(c,r):o(c);if(c)return c}else console.warn("invalid uid source",e)}(E,I,v):void 0;g=g&&(!!f||A)}catch(e){console.error(e)}var m=e,E=(m[n]=m[n]||[],m[n].push({"gtm.start":(new Date).getTime(),event:"gtm.js"}),t.getElementsByTagName(r)[0]),I="dataLayer"===n?"":"&l="+n,v=f?"&bi="+encodeURIComponent(f):"",A=t.createElement(r),e=g?"kp"+c:c,n=!g&&i?i:a;A.async=!0,A.src=n+"/"+e+".js?st="+o+I+v,null!=(f=E.parentNode)&&f.insertBefore(A,E)}();</script>
+		<!-- END of GTM Container Loader By GTM Server Side plugin -->
+		<meta name="generator" content="Elementor 3.21.5; features: e_optimized_assets_loading, e_optimized_css_loading, e_font_icon_svg, e_lazyload; settings: css_print_method-external, google_font-disabled, font_display-swap">
+			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+			<script src="https://cdn.userway.org/widget.js" data-account="RzF3pxInL7"></script><link rel="icon" href="wp-content/uploads/2024/04/cropped-MacBook-Pro-16_-52-32x32.png" sizes="32x32" />
+<link rel="icon" href="wp-content/uploads/2024/04/cropped-MacBook-Pro-16_-52-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="wp-content/uploads/2024/04/cropped-MacBook-Pro-16_-52-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.data-forensics.de/wp-content/uploads/2024/04/cropped-MacBook-Pro-16_-52-270x270.png" />
+	
+	<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js'></script>
+<style>
+	html {
+		overflow:hidden!important;
+	}	
+</style>
+	
+
+	
+</head>
+<body class="wp-singular page-template page-template-elementor_theme page page-id-4016 wp-theme-hello-elementor elementor-default elementor-kit-7 elementor-page elementor-page-4016">
+
+
+
+		<!-- Google Tag Manager (noscript) -->
+		<noscript><iframe src="https://sgtm.data-forensics.de/ns.html?id=N7XDMBBH"
+		                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<!-- End Google Tag Manager (noscript) -->
+		
+
+		<header data-elementor-type="header" data-elementor-id="2479" class="elementor elementor-2479 elementor-location-header" data-elementor-post-type="elementor_library">
+			<div class="elementor-element elementor-element-cbe4d4e e-con-full e-flex e-con e-parent" data-id="cbe4d4e" data-element_type="container" data-settings="{&quot;animation_mobile&quot;:&quot;none&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-1e767e1 nav e-con-full e-flex e-con e-child" data-id="1e767e1" data-element_type="container">
+		<div class="elementor-element elementor-element-1e6fcf9 burger elementor-hidden-desktop elementor-hidden-tablet e-flex e-con-boxed e-con e-child" data-id="1e6fcf9" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-5340e4a elementor-widget elementor-widget-image" data-id="5340e4a" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.21.0 - 08-05-2024 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>										<img width="49" height="12" src="wp-content/uploads/2024/04/burger.svg" class="attachment-large size-large wp-image-1761" alt="" />													</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-d805a72 e-con-full e-flex e-con e-child" data-id="d805a72" data-element_type="container">
+				<div class="elementor-element elementor-element-22c10b5 elementor-widget__width-inherit logo elementor-widget elementor-widget-image" data-id="22c10b5" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="index.html">
+							<img width="220" height="55" src="wp-content/uploads/2024/04/data-forensics-logo.svg" class="attachment-full size-full wp-image-34" alt="" />								</a>
+													</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-5f15534 e-con-full e-flex e-con e-child" data-id="5f15534" data-element_type="container">
+		<div class="elementor-element elementor-element-19c27ac e-con-full menu-links e-flex e-con e-child" data-id="19c27ac" data-element_type="container">
+				<div class="elementor-element elementor-element-6899e05 link elementor-widget elementor-widget-heading" data-id="6899e05" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.21.0 - 08-05-2024 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h5 class="elementor-heading-title elementor-size-default"><a href="index.html?p=2529">About</a></h5>		</div>
+				</div>
+				<div class="elementor-element elementor-element-422aa06 link elementor-widget elementor-widget-heading" data-id="422aa06" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-default"><a href="index.html?p=2637">Report a scam</a></h5>		</div>
+				</div>
+				<div class="elementor-element elementor-element-852b755 link elementor-widget elementor-widget-heading" data-id="852b755" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-default"><a href="index.html?p=2860">Our cases</a></h5>		</div>
+				</div>
+				<div class="elementor-element elementor-element-e24c5c4 link elementor-widget elementor-widget-heading" data-id="e24c5c4" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-default"><a href="index.html?p=3117">FAQ</a></h5>		</div>
+				</div>
+				<div class="elementor-element elementor-element-45763c4 link elementor-widget elementor-widget-heading" data-id="45763c4" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-default"><a href="index.html?p=3185">Contact</a></h5>		</div>
+				</div>
+				<div class="elementor-element elementor-element-f99bd8b btn elementor-button cta-btn elementor-widget elementor-widget-button" data-id="f99bd8b" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="index.html?p=3240">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Report your scam</span>
+					</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-d0dd98d elementor-widget elementor-widget-html" data-id="d0dd98d" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			
+  <style>
+    body::before {
+      content: "";
+      width: 100%;
+      height: 0%;
+      background: #223B58;
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      transition: all 0.8s cubic-bezier(.89,.14,0,.99);
+      z-index: 99999999999999999999999!important;
+    }
+    body::after {
+      content: "";
+      width: 100%;
+      height: 100%;
+      background: #223B58;
+      position: fixed;
+      top: 0;
+      left: 0;
+      transition: all 0.8s cubic-bezier(.89,.14,0,.99);
+     z-index: 99999999999999999999999!important;
+    }
+    .body-loaded {
+      opacity:1;
+    }
+    .body-loaded::after {
+      height: 0% !important;
+    }
+    .body-loader::before {
+      height: 100% !important;
+    }
+    body .uwy.userway_p1 .userway_buttons_wrapper {
+        top: auto;
+        right: auto;
+        bottom: 3%;
+        left: 3%;
+        transform: none;
+    }
+    @media only screen and (min-width: 767px) {
+        .quick-call img {
+            display:none;
+        }
+    }
+    @media only screen and (max-width: 767px) {
+
+        .quick-call img {
+            position:fixed;
+            bottom:5vw;
+            right:5vw;
+            z-index:999;
+            border-radius:50vw!important;
+            pointer-events: auto!important;
+            -webkit-box-shadow: 0px 0px 68px 0px rgba(0,0,0,0.49);
+-moz-box-shadow: 0px 0px 68px 0px rgba(0,0,0,0.49);
+box-shadow: 0px 0px 68px 0px rgba(0,0,0,0.49);
+        }
+    }
+  </style>
+  
+  
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/gsap.min.js"></script>
+
+		</div>
+				</div>
+		<div class="elementor-element elementor-element-154d3d4 quick-call e-flex e-con-boxed e-con e-child" data-id="154d3d4" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-e818dd8 elementor-widget elementor-widget-image" data-id="e818dd8" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="tel:3158036300">
+							<img width="167" height="49" src="wp-content/uploads/2024/04/quick-call.svg" class="attachment-large size-large wp-image-4039" alt="" />								</a>
+													</div>
+				</div>
+					</div>
+				</div>
+				</div>
+				</header>
+		
+<main id="content" class="site-main post-4016 page type-page status-publish hentry">
+
+	
+	<div class="page-content">
+				<div data-elementor-type="wp-page" data-elementor-id="4016" class="elementor elementor-4016" data-elementor-post-type="page">
+				<div class="elementor-element elementor-element-1cba228b e-con-full e-flex elementor-invisible e-con e-parent" data-id="1cba228b" data-element_type="container" id="page" data-settings="{&quot;animation_mobile&quot;:&quot;none&quot;,&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeIn&quot;}">
+		<div class="elementor-element elementor-element-1d380e52 e-con-full e-flex e-con e-child" data-id="1d380e52" data-element_type="container">
+				</div>
+				<div class="elementor-element elementor-element-4ce85366 title js-split-text elementor-widget elementor-widget-heading" data-id="4ce85366" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">Privacy Policy</h1>		</div>
+				</div>
+		<div class="elementor-element elementor-element-6658664 step e-con-full e-flex e-con e-child" data-id="6658664" data-element_type="container">
+				<div class="elementor-element elementor-element-1ba5ffe elementor-widget elementor-widget-text-editor" data-id="1ba5ffe" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.21.0 - 08-05-2024 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<h5 class="p1">This is the privacy policy (the &#8220;<b>Policy</b>&#8220;) of the website https://data-forensics.de&nbsp;(the &#8220;<b>Website</b>&#8220;) operated by Data Forensics GmbH, of Arnulfstraße 19, 80335 München, Germany&nbsp;(the &#8220;<b>Company</b>&#8220;, &#8220;<b>We</b>&#8220;, &#8220;<b>Us</b>&#8220;, &#8220;<b>Our</b>&#8220;).</h5>
+<h5 class="p1">The Company is committed to securing your Personal Data and your privacy. According to this commitment We will uphold the following principles:<p></p>
+</h5>
+<ul>
+<li>
+<h5><span style="text-decoration: underline;"><span class="s5">To be transparent in respect of the collection and processing of Personal Data about you</span>:</span></h5>
+<h5>It is important to Us that at all times you will have all of the information required in order for you to make educated decisions about the processing of Personal Data about you. For this purpose, We will make use of various techniques and measures aimed to provide you with relevant information about the processing of Personal Data about you, in the proper manner and timing.</h5>
+<h5>Our complete privacy policy is intended to provide you with the widest understanding of the types of Personal Data collected by Us and the manner in which We process it. It is therefore vital that you will review it at the first possible opportunity and from time to time.</h5>
+<h5>In addition, where We find that you are required to be provided with specific information, We will provide it to you in the appropriate time and place.</h5>
+<h5>We will also be happy to answer any question you have and provide you with any clarification you require, subject to legal limitations. For this purpose, you can approach Our data protection officer according to the following details:</h5>
+<h5>Data Protection Officer, Data Forensics GmbH<span class="s3"><br></span>E-mail: info@data-forensics.de</h5>
+</li>
+</ul>
+<ul class="ul1">
+<li class="li1">
+<h5><span style="text-decoration: underline;"><span class="s5">To process Personal Data about you solely for the purposes outlined in the Policy</span>:</span>The purposes for which We can process Personal Data about you include, inter alia, the provision of Our products and services requested by you, enhancing the user experience in Our products and services, to improve Our products and services, to protect Our rights and interests, to perform business and administrative activity that supports the provision of Our products and services to Our customers and/or to uphold any legal and/or regulatory requirements. The entire list of the purposes for which We use Personal Data about natural persons is listed in section 7 in the Policy.</h5>
+<h5>In addition, We will process Personal Data about you in order to understand your personal needs and preferences and provide you with personally tailored offers. You may request at any time that We will stop sending you personally tailored offers, and We will act according to such a request.</h5>
+</li>
+</ul>
+<ul class="ul1">
+<li class="li1">
+<h5><span style="text-decoration: underline;"><span class="s5">To invest significant resources in order to respect your rights in connection with Personal Data about you</span>:<br></span></h5>
+<h5>We apply significant resources in order to allow you to exercise your rights as a data subject. Therefore, you may approach Us any time you wish to review Personal Data about you, to have us amend it, erase it, cease using it for specific purposes or in general or that We will transfer it to you or to a third party, and We will fulfill your wishes in accordance with the law.</h5>
+<h5>&nbsp;</h5>
+</li>
+<li class="li1">
+<h5><span style="text-decoration: underline;"><span class="s5">To secure Personal Data about you</span>:</span></h5>
+<h5>While We cannot promise absolute protection of the Personal Data about you, We can promise that We use and will continue to use a wide array of means and measures that are aimed ensuring that the Personal Data about you is secured.</h5>
+</li>
+</ul>						</div>
+				</div>
+				<div class="elementor-element elementor-element-6ca112a elementor-widget elementor-widget-heading" data-id="6ca112a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Our Complete Privacy Policy</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-6643517 elementor-widget elementor-widget-text-editor" data-id="6643517" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<h5 class="p1">In order to view the entire document, please press <a href="wp-content/uploads/2024/06/DataForensics-Privacy-Policy-V1.0.pdf">here</a></h5>						</div>
+				</div>
+				<div class="elementor-element elementor-element-0d4d1b7 elementor-widget elementor-widget-text-editor" data-id="0d4d1b7" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<h5 class="p1">Version 1.1 &#8211; 29 Feb 2025</h5>						</div>
+				</div>
+				<div class="elementor-element elementor-element-f25b104 elementor-widget elementor-widget-toggle" data-id="f25b104" data-element_type="widget" data-widget_type="toggle.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.21.0 - 08-05-2024 */
+.elementor-toggle{text-align:start}.elementor-toggle .elementor-tab-title{font-weight:700;line-height:1;margin:0;padding:15px;border-bottom:1px solid #d5d8dc;cursor:pointer;outline:none}.elementor-toggle .elementor-tab-title .elementor-toggle-icon{display:inline-block;width:1em}.elementor-toggle .elementor-tab-title .elementor-toggle-icon svg{margin-inline-start:-5px;width:1em;height:1em}.elementor-toggle .elementor-tab-title .elementor-toggle-icon.elementor-toggle-icon-right{float:right;text-align:right}.elementor-toggle .elementor-tab-title .elementor-toggle-icon.elementor-toggle-icon-left{float:left;text-align:left}.elementor-toggle .elementor-tab-title .elementor-toggle-icon .elementor-toggle-icon-closed{display:block}.elementor-toggle .elementor-tab-title .elementor-toggle-icon .elementor-toggle-icon-opened{display:none}.elementor-toggle .elementor-tab-title.elementor-active{border-bottom:none}.elementor-toggle .elementor-tab-title.elementor-active .elementor-toggle-icon-closed{display:none}.elementor-toggle .elementor-tab-title.elementor-active .elementor-toggle-icon-opened{display:block}.elementor-toggle .elementor-tab-content{padding:15px;border-bottom:1px solid #d5d8dc;display:none}@media (max-width:767px){.elementor-toggle .elementor-tab-title{padding:12px}.elementor-toggle .elementor-tab-content{padding:12px 10px}}.e-con-inner>.elementor-widget-toggle,.e-con>.elementor-widget-toggle{width:var(--container-widget-width);--flex-grow:var(--container-widget-flex-grow)}</style>		<div class="elementor-toggle">
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-2541" class="elementor-tab-title" data-tab="1" role="button" aria-controls="elementor-tab-content-2541" aria-expanded="false">
+												<span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
+															<span class="elementor-toggle-icon-closed"><svg class="e-font-icon-svg e-fas-caret-right" viewBox="0 0 192 512" xmlns="http://www.w3.org/2000/svg"><path d="M0 384.662V127.338c0-17.818 21.543-26.741 34.142-14.142l128.662 128.662c7.81 7.81 7.81 20.474 0 28.284L34.142 398.804C21.543 411.404 0 402.48 0 384.662z"></path></svg></span>
+								<span class="elementor-toggle-icon-opened"><svg class="elementor-toggle-icon-opened e-font-icon-svg e-fas-caret-up" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"></path></svg></span>
+													</span>
+												<a class="elementor-toggle-title" tabindex="0">1. To What Does This Privacy Policy Apply?</a>
+					</div>
+
+					<div id="elementor-tab-content-2541" class="elementor-tab-content elementor-clearfix" data-tab="1" role="region" aria-labelledby="elementor-tab-title-2541"><p class="p1">This Policy describes what kind of Personal Data does the Company collect about natural persons, how does it collect it, use it, share it with third parties, secure it, process it etc.</p><p class="p1">In this Policy, and reference to &#8220;Personal Data&#8221; is to any information relating to an identified or identifiable natural person; an identifiable natural person is one who can be identified, directly, indirectly or in combination with additional information that We have or that We have access to.</p><p class="p1">In this policy, wherever We refer to the &#8220;processing&#8221; of Personal Data, We refer to any operation or set of operations which is performed on Personal Data, including collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction.</p></div>
+				</div>
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-2542" class="elementor-tab-title" data-tab="2" role="button" aria-controls="elementor-tab-content-2542" aria-expanded="false">
+												<span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
+															<span class="elementor-toggle-icon-closed"><svg class="e-font-icon-svg e-fas-caret-right" viewBox="0 0 192 512" xmlns="http://www.w3.org/2000/svg"><path d="M0 384.662V127.338c0-17.818 21.543-26.741 34.142-14.142l128.662 128.662c7.81 7.81 7.81 20.474 0 28.284L34.142 398.804C21.543 411.404 0 402.48 0 384.662z"></path></svg></span>
+								<span class="elementor-toggle-icon-opened"><svg class="elementor-toggle-icon-opened e-font-icon-svg e-fas-caret-up" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"></path></svg></span>
+													</span>
+												<a class="elementor-toggle-title" tabindex="0">2. Data Controller</a>
+					</div>
+
+					<div id="elementor-tab-content-2542" class="elementor-tab-content elementor-clearfix" data-tab="2" role="region" aria-labelledby="elementor-tab-title-2542"><p class="p1">The Company is the data controller in respect of the Personal Data about you.</p></div>
+				</div>
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-2543" class="elementor-tab-title" data-tab="3" role="button" aria-controls="elementor-tab-content-2543" aria-expanded="false">
+												<span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
+															<span class="elementor-toggle-icon-closed"><svg class="e-font-icon-svg e-fas-caret-right" viewBox="0 0 192 512" xmlns="http://www.w3.org/2000/svg"><path d="M0 384.662V127.338c0-17.818 21.543-26.741 34.142-14.142l128.662 128.662c7.81 7.81 7.81 20.474 0 28.284L34.142 398.804C21.543 411.404 0 402.48 0 384.662z"></path></svg></span>
+								<span class="elementor-toggle-icon-opened"><svg class="elementor-toggle-icon-opened e-font-icon-svg e-fas-caret-up" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"></path></svg></span>
+													</span>
+												<a class="elementor-toggle-title" tabindex="0">3. Data Protection Officer</a>
+					</div>
+
+					<div id="elementor-tab-content-2543" class="elementor-tab-content elementor-clearfix" data-tab="3" role="region" aria-labelledby="elementor-tab-title-2543"><p class="p1">The data protection officer of the Company and the means to communicate with the data protection officer are:</p><p class="p1">Data Protection Officer, Data Forensics GmbH</p><p class="p1">E-mail: info@data-forensics.de</p></div>
+				</div>
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-2544" class="elementor-tab-title" data-tab="4" role="button" aria-controls="elementor-tab-content-2544" aria-expanded="false">
+												<span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
+															<span class="elementor-toggle-icon-closed"><svg class="e-font-icon-svg e-fas-caret-right" viewBox="0 0 192 512" xmlns="http://www.w3.org/2000/svg"><path d="M0 384.662V127.338c0-17.818 21.543-26.741 34.142-14.142l128.662 128.662c7.81 7.81 7.81 20.474 0 28.284L34.142 398.804C21.543 411.404 0 402.48 0 384.662z"></path></svg></span>
+								<span class="elementor-toggle-icon-opened"><svg class="elementor-toggle-icon-opened e-font-icon-svg e-fas-caret-up" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"></path></svg></span>
+													</span>
+												<a class="elementor-toggle-title" tabindex="0">4. When Do We Collect Personal Data About You?</a>
+					</div>
+
+					<div id="elementor-tab-content-2544" class="elementor-tab-content elementor-clearfix" data-tab="4" role="region" aria-labelledby="elementor-tab-title-2544"><p class="p1">We collect Personal Data about you whenever you use Our products and services, use the Website or Application, Our service channels and/or contact Us. In some instances, you will actively provide Us with the Personal Data, and in other instances We will collect the Personal Data about you from examining and analyzing your use of Our products and services, the Website, the Application and/or Our service channels.</p></div>
+				</div>
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-2545" class="elementor-tab-title" data-tab="5" role="button" aria-controls="elementor-tab-content-2545" aria-expanded="false">
+												<span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
+															<span class="elementor-toggle-icon-closed"><svg class="e-font-icon-svg e-fas-caret-right" viewBox="0 0 192 512" xmlns="http://www.w3.org/2000/svg"><path d="M0 384.662V127.338c0-17.818 21.543-26.741 34.142-14.142l128.662 128.662c7.81 7.81 7.81 20.474 0 28.284L34.142 398.804C21.543 411.404 0 402.48 0 384.662z"></path></svg></span>
+								<span class="elementor-toggle-icon-opened"><svg class="elementor-toggle-icon-opened e-font-icon-svg e-fas-caret-up" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"></path></svg></span>
+													</span>
+												<a class="elementor-toggle-title" tabindex="0">5. No Obligation To Provide Personal Data To The Company And Its Implications</a>
+					</div>
+
+					<div id="elementor-tab-content-2545" class="elementor-tab-content elementor-clearfix" data-tab="5" role="region" aria-labelledby="elementor-tab-title-2545"><p class="p1">You are not obligated to provide Us with any Personal Data about you. However, in some instances, not providing such Personal Data will prevent Us from providing you with the products or services you request Us to provide you. Please see below a detailed description of such instances:</p><p class="p1"><b>Providing Personal Data for the purpose of providing you with Our products and services</b>: in order to provide Our products and services, We require to receive from You certain Personal Data about you. In these instances, while you are not obligated to provide the Personal Data about you, if you will not provide the Company with such Personal Data, We will not be able to provide you with Our products and services.</p><p class="p1">By way of example, if you do not provide Us with the details relating to how much funds were transferred by you to a third party, We will not be able to provide you with a report as to these funds</p><p class="p1"><b>Providing Personal Data for the purpose of contracting with you</b>: in some instances, providing Personal Data about you is a precondition to executing a contract between yourself and the Company. In these instances, while you are not obligated to provide the Personal Data about you, if you will not provide the Company with such Personal Data, We will not be able to contract with you and therefore will not be able to provide you with Our products and services.</p><p class="p1">By way of example, if you do not provide Us with your name, We will not be able to contract with you and register you as a client.</p></div>
+				</div>
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-2546" class="elementor-tab-title" data-tab="6" role="button" aria-controls="elementor-tab-content-2546" aria-expanded="false">
+												<span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
+															<span class="elementor-toggle-icon-closed"><svg class="e-font-icon-svg e-fas-caret-right" viewBox="0 0 192 512" xmlns="http://www.w3.org/2000/svg"><path d="M0 384.662V127.338c0-17.818 21.543-26.741 34.142-14.142l128.662 128.662c7.81 7.81 7.81 20.474 0 28.284L34.142 398.804C21.543 411.404 0 402.48 0 384.662z"></path></svg></span>
+								<span class="elementor-toggle-icon-opened"><svg class="elementor-toggle-icon-opened e-font-icon-svg e-fas-caret-up" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"></path></svg></span>
+													</span>
+												<a class="elementor-toggle-title" tabindex="0">6. What Personal Data About You Do We Collect?</a>
+					</div>
+
+					<div id="elementor-tab-content-2546" class="elementor-tab-content elementor-clearfix" data-tab="6" role="region" aria-labelledby="elementor-tab-title-2546"><p class="p1"><span class="s1"><b>Personal Data We collect upon registration</b>: email address, first name, last name, mobile phone number, publicly available data from the world wide web and social networks.</span></p>
+<p class="p1"><span class="s1"><b>Personal Data We collect upon each use of the Website and/or Application</b>: IP address, device info, operating system info, browser info, screen resolution, flash version, current and previous webpages browsed, date and time, location data, User Agent, device manufacturer and type, operating system info, the name of your carrier / internet service provider, connection type, device language, unique device identifiers, device name, geolocation data, advertising ID and IDFA.</span>&nbsp;</p>
+<p class="p1"><span class="s1"><b>Personal Data We collect when you request to be provided Our products and services (including via customer support)</b>: amount of funds deposited by you, amount of funds held by third party, identity and nature of third party, amount of funds sought to be withdrawn by you, e-wallet / other account to which the funds were deposited, date and time of each action performed by you in respect of such funds and any additional details you provide in respect of the funds.</span></p>
+<p class="p1"><b>Personal Data We receive from you</b>: any Personal Data you provide to Us on your own free will when contacting Us, including via customer support, chat, social networks or in any other manner, including complaints, requests and comments. Our customer support representatives may record and/or document in writing your calls.&nbsp;In addition, you may provide Us with Personal Data relating to your use of Our products and services, including, but not limited to, reviews and testimonials by various manners (written reviews, videos etc.)</p></div>
+				</div>
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-2547" class="elementor-tab-title" data-tab="7" role="button" aria-controls="elementor-tab-content-2547" aria-expanded="false">
+												<span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
+															<span class="elementor-toggle-icon-closed"><svg class="e-font-icon-svg e-fas-caret-right" viewBox="0 0 192 512" xmlns="http://www.w3.org/2000/svg"><path d="M0 384.662V127.338c0-17.818 21.543-26.741 34.142-14.142l128.662 128.662c7.81 7.81 7.81 20.474 0 28.284L34.142 398.804C21.543 411.404 0 402.48 0 384.662z"></path></svg></span>
+								<span class="elementor-toggle-icon-opened"><svg class="elementor-toggle-icon-opened e-font-icon-svg e-fas-caret-up" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"></path></svg></span>
+													</span>
+												<a class="elementor-toggle-title" tabindex="0">7. The Purposes Of The Processing Of Personal Data And Their Legal Basis </a>
+					</div>
+
+					<div id="elementor-tab-content-2547" class="elementor-tab-content elementor-clearfix" data-tab="7" role="region" aria-labelledby="elementor-tab-title-2547"><p>The Company processes your Personal Data for one or more of the purposes outlined in this section and according to the appropriate legal basis.</p>
+<p>The Company shall not process Personal Data about you unless there is a legal basis for such processing. The legal bases according to which the Company may process Personal Data about you are as follows:</p>
+<ol>
+<li><b>Your consent that the Company will process Personal Data about you for one or more specific purposes</b>. By way of example, for the purpose of sending you marketing materials.Where the legal basis for the processing of the Personal Data about you is consent, you may at any time to withdraw your consent for the purposes for which you provided your consent by sending a notice free of charge to the following email address: info@data-forensics.de
+<p>Where you withdraw your consent for the processing of Personal Data about you, We might not be able to provide you with some or all of the products and services you requested or in the form intended to be provided to you, and you will have no claim in respect of that.</p>
+</li>
+</ol>
+<ol>
+<li><b>Processing is necessary for the performance of a contract to which you are party or in order to take steps at your request prior to entering into a contract</b>. By way of example, for registering you as a client.</li>
+<li><b>Processing is necessary for compliance with a legal obligation to which the Company is subject</b>. By way of example, if required by regulatory authorities.</li>
+<li><b>Processing is necessary for the purposes of the legitimate interests pursued by the Company or by a third party</b>. By way of example, for the purpose of improving our products and services, or for the exercise or defense of legal claims.Whenever the processing of Personal Data about you is necessary for the purpose of the legitimate interests pursued by the Company or by a third party, the processing is conditional upon such interests not overridden by your interests or fundamental rights and freedoms which require protection of Personal Data about you.
+<p>At any time, you may approach Us by sending a notice to the following email address info@data-forensics.de&nbsp;in order to receive information concerning the review performed by Us in order to reach the conclusion that We may process the Personal Data about you on account of such processing being necessary for the purposes of the legitimate interests pursued by the Company or by a third party.</p>
+</li>
+</ol>
+<p>The following list outlines the purposes for which We may process Personal Data about you and the legal basis for any such processing:</p>
+<p><style>
+        table {<br />            width: 100%;<br />            border-collapse: collapse;<br />        }<br />        th, td {<br />            border: 1px solid #FFFFFF;<br />            padding: 8px;<br />            text-align: left;<br />            vertical-align: top; /* Align content to the top */<br />        }<br />        th {<br />            background-color: #0D253C;<br />            color: #FFFFFF;<br />        }<br />        .narrow {<br />            width: 50px; /* Adjust as needed */<br />        }<br />    </style>
+</p>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Purpose</th>
+<th>Legal Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>In order to register you as a client<br>Upon your request to register with the Company as a client, We will process your Personal Data in order to allow Us to perform such requests.</td>
+<td>Processing is necessary for the performance of a contract to which you are party or in order to take steps at your request prior to entering into a contract.<br>Processing is necessary for compliance with a legal obligation to which the Company is subject.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>In order to allow Us to provide you with Our products and services</td>
+<td>Processing is necessary for the performance of a contract to which you are party or in order to take steps at your request prior to entering into a contract.<br>Processing is necessary for compliance with a legal obligation to which the Company is subject.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>In order to contact you for the purpose of operational requirements<br>In some circumstances, We will contact you in order to update you in respect of certain operational matter; for instance, where a certain aspect of Our products and services is changing. In these circumstances, We will need to use Personal Data about you accordingly.</td>
+<td>Processing is necessary for the performance of a contract to which you are party or in order to take steps at your request prior to entering into a contract.<br>Processing is necessary for compliance with a legal obligation to which the Company is subject.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>In order to respond to your queries, requests and/or complaints, and to provide you with customer support services<br>Processing of Personal Data about you is required in order to respond to queries you have concerning Our products and services, and in general to provide you with customer support services.</td>
+<td>Processing is necessary for the purpose of the legitimate interests pursued by the Company or by a third party.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>In order to collect money in connection with products and services purchased by you</td>
+<td>Processing is necessary for the performance of a contract to which you are party or in order to take steps at your request prior to entering into a contract.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>In order to provide you with tailor made marketing materials and offers<br>In order to enhance and improve your user experience and the use of Our products and services, and in order to offer you with additional and new offers, products and services, We process Personal Data about you in order to adjust the materials presented to you according to your preferences, behavior, characteristics and interests. For this purpose, We use Personal Data automated analysis techniques, including profiling.</td>
+<td>Processing is necessary for the purpose of the legitimate interests pursued by the Company or by a third party.</td>
+</tr>
+<tr>
+<td>7</td>
+<td>In order to comply with any legal obligations or judicial or administrative orders<br>We process Personal Data about you in order to comply with Our various legal obligations, which include, inter alia, KYC and AML requirements.</td>
+<td>Processing is necessary for compliance with a legal obligation to which the Company is subject.</td>
+</tr>
+<tr>
+<td>8</td>
+<td>In order to improve the products and services We offer, as well as to offer new ones<br>We may use Personal Data about you in order to improve the products and services We offer, as well for the purpose of offering new ones; such processing will include, inter alia, an analysis of previous uses by you of Our products and services, any comments and complaints received in respect of Our products and services, as well as any errors and malfunctions.</td>
+<td>Processing is necessary for the purpose of the legitimate interests pursued by the Company or by a third party.</td>
+</tr>
+<tr>
+<td>9</td>
+<td>In order to send you marketing materials<br>Inasmuch as you agree to receive marketing materials from Us, We will send you, via the means of communication you consented to, marketing materials relating to Our products and services, whether in existence now or in the future, whether similar to Our current products and services and whether different ones, and/or products and services of third parties.<br>It is hereby clarified that you may withdraw your consent at any time, by sending an email free of charge with the title &#8220;unsubscribe&#8221; to the following email address: info@data-forensics.de or by clicking the unsubscribe option in any marketing material sent to you. Please note that you will be requested to choose from which means of communication (one, some or all) do you wish to unsubscribe.<br>It is hereby clarified that unsubscribing will not cause the deletion of your contact details, but to cease receiving marketing materials – unless you re-request to receive them, subject to any legal obligation of Ours.</td>
+<td>Your consent</td>
+</tr>
+<tr>
+<td>10</td>
+<td>In order to analyze the effectiveness of any marketing and advertising campaigns and activities of the Company</td>
+<td>Processing is necessary for the purpose of the legitimate interests pursued by the Company or by a third party.</td>
+</tr>
+<tr>
+<td>11</td>
+<td>In order to perform and maintain various activities supporting the offering and provision of Our products and services&nbsp;including the promotion of Our products and services to third parties.<br>Such activities include back office functions, business development activities, marketing to third parties, strategic decision making, oversight mechanisms etc.</td>
+<td>Processing is necessary for the purpose of the legitimate interests pursued by the Company or by a third party.</td>
+</tr>
+<tr>
+<td>12</td>
+<td>In order to perform analysis, including statistical analysis<br>We use various analytical measures (including statistical ones) in order to make decisions in various issues, including improving existing products and services and introducing and developing new ones.</td>
+<td>Processing is necessary for the purpose of the legitimate interests pursued by the Company or by a third party.</td>
+</tr>
+<tr>
+<td>13</td>
+<td>In order to protect Our and third parties’ interests, rights and assets, including initiation or exercise or defense of legal claims<br>We may process Personal Data about you in order to protect the interests, rights and Assets of Ours and of third parties, according to any law, regulation and agreement, including any of Our terms and conditions and policies.</td>
+<td>Processing is necessary for the purpose of the legitimate interests pursued by the Company or by a third party.</td>
+</tr>
+</tbody>
+</table></div>
+				</div>
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-2548" class="elementor-tab-title" data-tab="8" role="button" aria-controls="elementor-tab-content-2548" aria-expanded="false">
+												<span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
+															<span class="elementor-toggle-icon-closed"><svg class="e-font-icon-svg e-fas-caret-right" viewBox="0 0 192 512" xmlns="http://www.w3.org/2000/svg"><path d="M0 384.662V127.338c0-17.818 21.543-26.741 34.142-14.142l128.662 128.662c7.81 7.81 7.81 20.474 0 28.284L34.142 398.804C21.543 411.404 0 402.48 0 384.662z"></path></svg></span>
+								<span class="elementor-toggle-icon-opened"><svg class="elementor-toggle-icon-opened e-font-icon-svg e-fas-caret-up" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"></path></svg></span>
+													</span>
+												<a class="elementor-toggle-title" tabindex="0">8. Your Right To Object To The Processing of Personal Data About You Where Such Processing Is Necessary For The Purpose Of The Legitimate Interests Pursued By The Company Or By A Third Party</a>
+					</div>
+
+					<div id="elementor-tab-content-2548" class="elementor-tab-content elementor-clearfix" data-tab="8" role="region" aria-labelledby="elementor-tab-title-2548"><p class="p1">Where the processing of Personal Data about you is necessary for the purpose of the legitimate interests pursued by the Company or by a third party, you have the right to object to such processing for this purpose by sending a notice to the following email address info@data-forensics.de, unless We demonstrate compelling legitimate grounds for the processing which override your interests, rights and freedoms or for the establishment, exercise or defense of legal claims.</p></div>
+				</div>
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-2549" class="elementor-tab-title" data-tab="9" role="button" aria-controls="elementor-tab-content-2549" aria-expanded="false">
+												<span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
+															<span class="elementor-toggle-icon-closed"><svg class="e-font-icon-svg e-fas-caret-right" viewBox="0 0 192 512" xmlns="http://www.w3.org/2000/svg"><path d="M0 384.662V127.338c0-17.818 21.543-26.741 34.142-14.142l128.662 128.662c7.81 7.81 7.81 20.474 0 28.284L34.142 398.804C21.543 411.404 0 402.48 0 384.662z"></path></svg></span>
+								<span class="elementor-toggle-icon-opened"><svg class="elementor-toggle-icon-opened e-font-icon-svg e-fas-caret-up" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"></path></svg></span>
+													</span>
+												<a class="elementor-toggle-title" tabindex="0">9. Your Right To Object To The Processing of Personal Data About You For Direct Marketing Purposes</a>
+					</div>
+
+					<div id="elementor-tab-content-2549" class="elementor-tab-content elementor-clearfix" data-tab="9" role="region" aria-labelledby="elementor-tab-title-2549"><p class="p1">The Company provides its customers with offers that are tailored for them specifically, in order to enhance and improve your user experience and the use of Our products and services, and in order to offer you with additional and new offers, products and services, including products and services of third parties. This is done following the processing of Personal Data about you, in order to adjust the materials presented to you, on the basis of your preferences, behavior, characteristics and interests. For this purpose, We use Personal Data automated analysis techniques that provide Us with analysis and conclusions concerning you in various aspects, including profiling.</p><p class="p1">By way of example, such analysis and conclusions may be used by Us in order to offer you products and services which We think may be of more interest to you.</p><p class="p1">Similar analysis and conclusions are used to the extent that you agreed to receive marketing materials from Us, as such materials are tailored to offer you products and services which We think may be of more interest to you.</p><p class="p1">Where Personal Data about you is processed for direct marketing purposes, you shall have the right to object at any time to such processing for this purpose, including profiling to the extent that it is related to such direct marketing, by sending a notice to the following email address data-forensics.de, in which case We shall cease to process Personal Data about you for such direct marketing purposes.</p><p class="p1">In addition, you may withdraw your consent from receiving marketing materials at any time, by sending an email free of charge with the title &#8220;unsubscribe&#8221; to the following email address: info@data-forensics.de</p></div>
+				</div>
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-25410" class="elementor-tab-title" data-tab="10" role="button" aria-controls="elementor-tab-content-25410" aria-expanded="false">
+												<span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
+															<span class="elementor-toggle-icon-closed"><svg class="e-font-icon-svg e-fas-caret-right" viewBox="0 0 192 512" xmlns="http://www.w3.org/2000/svg"><path d="M0 384.662V127.338c0-17.818 21.543-26.741 34.142-14.142l128.662 128.662c7.81 7.81 7.81 20.474 0 28.284L34.142 398.804C21.543 411.404 0 402.48 0 384.662z"></path></svg></span>
+								<span class="elementor-toggle-icon-opened"><svg class="elementor-toggle-icon-opened e-font-icon-svg e-fas-caret-up" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"></path></svg></span>
+													</span>
+												<a class="elementor-toggle-title" tabindex="0">10. Transfer Of Personal Data To Third Parties</a>
+					</div>
+
+					<div id="elementor-tab-content-25410" class="elementor-tab-content elementor-clearfix" data-tab="10" role="region" aria-labelledby="elementor-tab-title-25410"><p class="p1">The Company shares Personal Data with companies within the group of companies of which the Company is a part, for the purpose of supporting the activities of the Company and the offering of the Company’s products and services.</p><p class="p1">The Company may also share Personal Data about you with third parties that provide Us with the following services:</p><ol class="ol1"><li class="li1">KYC and AML services, aimed to ensure that We comply with all of Our legal, regulatory and licensing obligations and requirements.</li><li class="li1">Payment services, such as payment service providers, payment processors and banks.</li><li class="li1">Storage and hosting providers, including cloud computing services.</li><li class="li1">Analysis of user experience.</li><li class="li1">Support.</li><li class="li1">Marketing.</li><li class="li1">Dispatch of materials, including marketing materials, via various means of communications, such as emails, SMS, regular (snail) mail, push notifications and other electronic messages.</li><li class="li1">CRM data management.</li><li class="li1">Call enters.</li><li class="li1">Digital signing.</li><li class="li1">Accounting and legal services.</li><li class="li1">Research, analytical, technical and diagnostic services.</li></ol><p class="p1">The Company may share Personal Data about you with governmental, local, state, federal, official, regulatory and administrative authorities, as well as where such disclosure is required to protect Our and third parties’ interests, rights and assets, including initiation or exercise or defense of legal claims.</p><p class="p1">In addition, We may disclose Personal Data about you to potential purchasers or investors of, or lenders to, the Company and/or any company within the group of companies of which the Company is a part, or in the event of any similar transaction (including the sale of assets of the Company and/or of any company within the group of companies of which the Company is a part), and/or in connection with any merger, reorganization, consolidation or bankruptcy of the Company and/or any company within the group of companies of which the Company is a part.</p></div>
+				</div>
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-25411" class="elementor-tab-title" data-tab="11" role="button" aria-controls="elementor-tab-content-25411" aria-expanded="false">
+												<span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
+															<span class="elementor-toggle-icon-closed"><svg class="e-font-icon-svg e-fas-caret-right" viewBox="0 0 192 512" xmlns="http://www.w3.org/2000/svg"><path d="M0 384.662V127.338c0-17.818 21.543-26.741 34.142-14.142l128.662 128.662c7.81 7.81 7.81 20.474 0 28.284L34.142 398.804C21.543 411.404 0 402.48 0 384.662z"></path></svg></span>
+								<span class="elementor-toggle-icon-opened"><svg class="elementor-toggle-icon-opened e-font-icon-svg e-fas-caret-up" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"></path></svg></span>
+													</span>
+												<a class="elementor-toggle-title" tabindex="0">11. Your Rights in respect of The Personal Data About you</a>
+					</div>
+
+					<div id="elementor-tab-content-25411" class="elementor-tab-content elementor-clearfix" data-tab="11" role="region" aria-labelledby="elementor-tab-title-25411"><p class="p1">You are entitled to the following rights in respect of the Personal Data about you. The exercise of such rights will be via sending an email requesting to exercise your right to the following email address: info@data-forensics.de</p><p class="p1"><b>Right of access</b></p><p class="p1">You have the right to receive from the Company confirmation as to whether or not Personal Data about you is being processed, and, where that is the case, access to the Personal Data and the following information: (1) the purposes of the processing; (2) the categories of Personal Data concerned; (<span class="s1">3</span>) the recipients or categories of recipient to whom the Personal Data have been or will be disclosed, in particular recipients in third countries outside the European Economic Are (EEA) or international organisations; (<span class="s1">4</span>) where possible, the envisaged period for which the Personal Data will be stored, or, if not possible, the criteria used to determine that period; (<span class="s1">5</span>) the existence of the right to request from the Company rectification or erasure of Personal Data or restriction of processing of Personal Data about you or to object to such processing; (6) the right to lodge a complaint with a supervisory authority; (7) where the Personal Data is not collected from you, any available information as to its source; (8) the existence of profiling; and (9) where personal data is transferred to a third country outside the EEA or to an international organisation, the appropriate safeguards relating to the transfer.</p><p class="p1">The Company shall provide a copy of the Personal Data undergoing processing and may charge a reasonable fee for any further copies requested by you where you make the request by electronic means, and unless otherwise requested by you, the information shall be provided in a commonly used electronic form.</p><p class="p1">The right to obtain a copy of the Personal Data shall not adversely affect the rights and freedoms of others, and therefore if the request will harm the rights and freedoms of others, the Company may not fulfill your request or do so in a limited manner.</p><p class="p1"><b>Right to rectification</b></p><p class="p1">You have the right to obtain from the Company the rectification of inaccurate Personal Data about you. Taking into account the purposes of the processing, you have the right to have incomplete Personal Data completed, including by means of providing a supplementary statement.</p><p class="p1"><b>Right to erasure</b></p><p class="p1">You have the right to obtain from the Company the erasure of Personal Data about you where one of the following grounds applies: (a) the Personal Data is no longer necessary in relation to the purpose for which it was collected or otherwise processed; (b) you withdraw your consent on which the processing is based and there is no other legal ground for the processing; (c) you object at any time, on grounds relating to your particular situation, to processing of Personal Data about you which is based on the legitimate interests pursued by Us or by a third party, and there are no overriding legitimate grounds for the processing; (d) you object to the processing of Personal Data about you for direct marketing purposes; (e) the Personal Data has been unlawfully processed; (f) the Personal Data about you has to be erased for compliance with a legal obligation in European Union or Member State law to which the Company is subject.</p><p class="p1">This right is not applicable to the extent that the processing is necessary: (a) for compliance with a legal obligation which requires processing by European Union or Member State law to which the Company is subject; or (b) for the establishment, exercise or defense of legal claims.</p><p class="p1"><b>Right of restriction of processing</b></p><p class="p1">You have the right to obtain from the Company restriction of processing of Personal Data about you where one of the following applies: (a) the accuracy of the Personal Data is contested by you, for a period enabling the Company to verify the accuracy of the Personal Data about you; (b) the processing is unlawful and you oppose the erasure of the Personal Data about you and request the restriction of its use instead; (c) the Company no longer needs the Personal Data about you for the purposes of the processing, but it is required by you for the establishment, exercise or defense of legal claims; (d) where the processing of Personal Data about you is necessary for the purpose of the legitimate interests pursued by the Company or by a third party, unless We demonstrate compelling legitimate grounds for the processing which override your interests, rights and freedoms or for the establishment, exercise or defense of legal claims; (e) where Personal Data about you is processed for direct marketing purposes, including profiling the extent that it is related to such direct marketing.</p><p class="p1">Where processing of Personal Data about you has been restricted following your request, such Personal Data shall, with the exception of storage, only be processed with your consent or for the establishment, exercise or defense of legal claims or for the protection of the rights of another natural or legal person or for reasons of important public interest of the European Union or of a Member State.</p><p class="p1"><b>Right to data portability</b></p><p class="p1">You have the right to receive the Personal Data about you, which you have provided to the Company, in a structured, commonly used and machine-readable format and have the right to transmit such Personal Data to another controller, where: (a) the processing is based on your consent or on a contract to which you are a party; and (b) the processing is carried out by automated means.</p><p class="p1">In exercising your right to data portability, you have the right to have the Personal Data about you transmitted directly from the Company to another controller, where technically feasible. The exercise of your right to data portability is without prejudice to your and the Company’s rights under your right to erasure. In addition, the right to data portability shall not adversely affect the rights and freedoms of others.</p><p class="p1"><b>Right to object</b></p><p class="p1">You have the right to object, on grounds relating to your particular situation, at any time to processing of Personal Data about you which is based on the legitimate interests pursued by the Company or by a third party, including profiling based on such legitimate interests. We shall no longer process the Personal Data about you unless We demonstrate compelling legitimate grounds for the processing which override your interests, rights and freedoms or for the establishment, exercise or defense of legal claims.</p><p class="p1">You have the right to object at any time to the processing of Personal Data about you for direct marketing purposes, which includes profiling to the extent that it is related to such direct marketing.</p><p class="p1"><b>Right to withdraw consent</b></p><p class="p1">You may withdraw your consent provided to Us for the purpose of processing Personal Data about you at any time, without affecting the lawfulness of processing based on consent before its withdrawal and without affecting the lawfulness of processing based on any other legal basis.</p><p class="p1"><b>Right to lodge a complaint with a supervisory authority</b></p><p class="p1">You have the right to lodge a complaint with a supervisory authority which is established by a Member State in order to protect the fundamental rights and freedoms of natural persons in relation to processing of personal data within the European Union.</p><p class="p1">Your rights in respect of Personal Data about you as outlined in this section 11 may be restricted by European Union or Member State law to which the Company is subject to.</p><p class="p1">We shall provide you with the information requested according to your rights outlined in this section 11 without undue delay and in any event within one month of receipt of the request. That period may be extended by two further months where necessary, taking into account the complexity and number of the requests. We shall inform you of any such extension within one month of receipt of the request, together with the reasons for the delay.</p><p class="p1">The information requested according to your rights outlined in this section 11 shall be provided free of charge, unless stated otherwise in this section 11. Where requests are manifestly unfounded or excessive, in particular because of their repetitive character, We may either: (a) charge a reasonable fee taking into account the administrative costs of providing the information or communication or taking the action requested; or (b) refuse to act on the request.</p><p class="p1">The Company may require you to provide additional information necessary to confirm your identity in order to fulfill your request according to your rights outlined in this section 11, where We have reasonable doubts concerning the identity of the natural person making the request.</p></div>
+				</div>
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-25412" class="elementor-tab-title" data-tab="12" role="button" aria-controls="elementor-tab-content-25412" aria-expanded="false">
+												<span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
+															<span class="elementor-toggle-icon-closed"><svg class="e-font-icon-svg e-fas-caret-right" viewBox="0 0 192 512" xmlns="http://www.w3.org/2000/svg"><path d="M0 384.662V127.338c0-17.818 21.543-26.741 34.142-14.142l128.662 128.662c7.81 7.81 7.81 20.474 0 28.284L34.142 398.804C21.543 411.404 0 402.48 0 384.662z"></path></svg></span>
+								<span class="elementor-toggle-icon-opened"><svg class="elementor-toggle-icon-opened e-font-icon-svg e-fas-caret-up" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"></path></svg></span>
+													</span>
+												<a class="elementor-toggle-title" tabindex="0">12. Cookies</a>
+					</div>
+
+					<div id="elementor-tab-content-25412" class="elementor-tab-content elementor-clearfix" data-tab="12" role="region" aria-labelledby="elementor-tab-title-25412"><p class="p1"><b>General</b></p><p class="p1">When you visit or access the Website, the Application and/or use Our products and services, a cookie file (which is a small text file) is installed on the device via which you visit or access the Website, the Application and/or use Our products and services. The cookies allow Us to collect information about you and your behavior, in order to improve your user experience, to remember your preferences and settings, to customize and offer you with products and services that may interest you. Cookies are also used collect statistics about your usage of Our products and services and perform analytics.</p><p class="p1">Some of the cookies We use are session cookies, which are downloaded temporarily to your device and last until you close your web browser, while others are persistent cookies which last on your device after you cease browsing the Website and/or the Application and are used to help the Website and/or the Application remember you as a returning visitor when you return to the Website and/or the Application.</p><p class="p1"><b>Types of cookies</b></p><p class="p1">The cookies We use have classified according to their functionality, as follows:</p><p><style>
+        table {<br />            width: 100%;<br />            border-collapse: collapse;<br />        }<br />        th, td {<br />            border: 1px solid #FFFFFF;<br />            padding: 8px;<br />            text-align: left;<br />            vertical-align: top; /* Align content to the top */<br />        }<br />        th {<br />            background-color: #0D253C;<br />            color: #FFFFFF;<br />        }<br />        .narrow {<br />            width: 50px; /* Adjust as needed */<br />        }<br />    </style></p><table><thead><tr><th class="narrow">Type of cookie</th><th>Purpose</th><th>Additional Information</th></tr></thead><tbody><tr><td class="narrow">Strictly Necessary Cookies</td><td>&#8220;These cookies are strictly necessary to enable you to navigate the Website and/or Application and use features you have requested. They are used to provide you with Our content, products and services that you have requested.<br />Such cookies are essential to help your device download or stream information so that you can navigate around the Website and/or Application, use their features and allow you to return to pages you have previously visited. &#8220;</td><td>These cookies collect Personal Data about you, last date you used the Website and/or Application and identify you as using the Website and/or Application.<br />These cookies are deleted when you close your web browser (session cookies)</td></tr><tr><td class="narrow">Functionality Cookies</td><td>These cookies are used to recognize you when you return to the Website and/or Application and allow Us to remember your choices and preferences (such as language) in order to allow Us to provide you with improved and customized features.</td><td>&#8220;These cookies collect Personal Data about you, such as your language preference and marketing preferences.<br />These cookies survive the closing of your web browser, and last until their applicable expiry time. &#8220;</td></tr><tr><td class="narrow">Performance Cookies</td><td>These cookies are used to provide aggregated statistics in respect of the performance of the Website and/or Application and to test and improve such performance, in order to provide better user experience; in addition, they allow Us to carry out analytical functions on the Website and/or Application.</td><td>&#8220;These cookies collect anonymised data which is not relating to an identified or identifiable natural person.<br />These cookies are valid for varying periods; some are deleted once you close your browser, while others have an indefinite validity period. &#8220;</td></tr><tr><td class="narrow">Third Party Marketing / Targeting Cookies</td><td>These cookies are used to deliver ads and marketing communications, and to make the Website and/or Application displayed, in a manner which is more relevant you, based on your interests and actions; they are also used to measure the effectiveness of an advertising campaign. These cookies record your visit to the Website and/or Application, the pages you have visited and the products and services you used.</td><td>&#8220;Some of these cookies are provided and used by third parties.<br />These cookies are valid for varying periods; some are deleted once you close your browser, while others have an indefinite validity period. &#8220;</td></tr></tbody></table><p class="p1"><b>Blocking and removal of cookies</b></p><p class="p1">You can change your browser settings in order to block and delete some or all cookies. Please see below links to instructions as to how to do this in respect of some of the most popular web browsers:</p><ul class="ul1"><li class="li2"><span class="s1"><a href="http://support.mozilla.org/en-US/kb/Cookies"><span class="s2">Firefox</span></a></span></li><li class="li2"><span class="s1"><a href="https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies"><span class="s2">Internet Explorer</span></a></span></li><li class="li3"><span class="s3"><a href="https://support.microsoft.com/en-us/microsoft-edge/delete-cookies-in-microsoft-edge-63947406-40ac-c3b8-57b9-2a946a29ae09"><span class="s4">Microsoft Edge</span></a></span></li><li class="li2"><span class="s1"><a href="http://support.google.com/chrome/bin/answer.py?hl=en&amp;answer=95647"><span class="s2">Google Chrome</span></a></span></li></ul><p class="p1">Please note, however, that if you do so, some or all of the Website’s and/or Application&#8217;s features and functionalities might not perform as intended.</p></div>
+				</div>
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-25413" class="elementor-tab-title" data-tab="13" role="button" aria-controls="elementor-tab-content-25413" aria-expanded="false">
+												<span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
+															<span class="elementor-toggle-icon-closed"><svg class="e-font-icon-svg e-fas-caret-right" viewBox="0 0 192 512" xmlns="http://www.w3.org/2000/svg"><path d="M0 384.662V127.338c0-17.818 21.543-26.741 34.142-14.142l128.662 128.662c7.81 7.81 7.81 20.474 0 28.284L34.142 398.804C21.543 411.404 0 402.48 0 384.662z"></path></svg></span>
+								<span class="elementor-toggle-icon-opened"><svg class="elementor-toggle-icon-opened e-font-icon-svg e-fas-caret-up" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"></path></svg></span>
+													</span>
+												<a class="elementor-toggle-title" tabindex="0">13. Retention Of Personal Data About You</a>
+					</div>
+
+					<div id="elementor-tab-content-25413" class="elementor-tab-content elementor-clearfix" data-tab="13" role="region" aria-labelledby="elementor-tab-title-25413"><p class="p1">The Company shall retain Personal Data about you for as long as is required to fulfill the purposes of the processing of the Personal Data as outlined in this Policy, or for a longer period as required according to the legislation, regulation, policies and orders that apply to Us.</p><p class="p1"><span class="s1">In general, We will hold Personal Data about you for a minimum period of seven years after you cease to use Our products and services.</span></p><p class="p1">In order to ensure that Personal Data about you is not retained for longer than is required, We periodically review Personal Data retained by Us in order to examine whether any Personal Data can be erased. </p></div>
+				</div>
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-25414" class="elementor-tab-title" data-tab="14" role="button" aria-controls="elementor-tab-content-25414" aria-expanded="false">
+												<span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
+															<span class="elementor-toggle-icon-closed"><svg class="e-font-icon-svg e-fas-caret-right" viewBox="0 0 192 512" xmlns="http://www.w3.org/2000/svg"><path d="M0 384.662V127.338c0-17.818 21.543-26.741 34.142-14.142l128.662 128.662c7.81 7.81 7.81 20.474 0 28.284L34.142 398.804C21.543 411.404 0 402.48 0 384.662z"></path></svg></span>
+								<span class="elementor-toggle-icon-opened"><svg class="elementor-toggle-icon-opened e-font-icon-svg e-fas-caret-up" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"></path></svg></span>
+													</span>
+												<a class="elementor-toggle-title" tabindex="0">14. Transfers Of Personal Data To A Third Country Or An International Organisation</a>
+					</div>
+
+					<div id="elementor-tab-content-25414" class="elementor-tab-content elementor-clearfix" data-tab="14" role="region" aria-labelledby="elementor-tab-title-25414"><p class="p1">Personal Data about you may be transferred to a third country (i.e., jurisdictions outside the EU Member States, Iceland, Norway and Liechtenstein) or to international organisations. In such circumstances, the Company shall take appropriate safeguards aimed to ensure the protection of Personal Data about you and provide that enforceable data subject rights and effective legal remedies for data subjects are available.</p><p class="p1">These safeguards and protection will be available if any of the following are met:</p><ol class="ol1"><li class="li1">The transfer is to a third country or an international organization which the EU Commission decided that they provide an adequate level of protection to the Personal Data that is transferred to them pursuant to Article 45(3) of Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 (&#8220;<b>GDPR</b>&#8220;);</li><li class="li1">The transfer is according to legally binding and enforceable instrument between public authorities or bodies pursuant to Article 46(2)(a) of the GDPR; or</li><li class="li1">The transfer is in accordance with standard data protection clauses adopted by the EU Commission pursuant to Article 46(2)(c) of the GDPR; the clauses adopted by the EU Commission can be viewed at <a href="https://commission.europa.eu/document/download/e60b1cd4-d802-44d5-9cac-ddd3c943a5ef_en?filename=1_en_annexe_acte_autonome_cp_part1_v5_0.pdf"><span class="s1">Standard Contractual Clauses</span></a></li></ol><p class="p1">You may request the Company to be provided with details concerning the safeguards employed by it to protect the Personal Data about you which is transferred to a third country or an international organization, by sending an email to the following address: info@data-forensics.de</p></div>
+				</div>
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-25415" class="elementor-tab-title" data-tab="15" role="button" aria-controls="elementor-tab-content-25415" aria-expanded="false">
+												<span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
+															<span class="elementor-toggle-icon-closed"><svg class="e-font-icon-svg e-fas-caret-right" viewBox="0 0 192 512" xmlns="http://www.w3.org/2000/svg"><path d="M0 384.662V127.338c0-17.818 21.543-26.741 34.142-14.142l128.662 128.662c7.81 7.81 7.81 20.474 0 28.284L34.142 398.804C21.543 411.404 0 402.48 0 384.662z"></path></svg></span>
+								<span class="elementor-toggle-icon-opened"><svg class="elementor-toggle-icon-opened e-font-icon-svg e-fas-caret-up" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"></path></svg></span>
+													</span>
+												<a class="elementor-toggle-title" tabindex="0">15. Protection Of Personal Data About You</a>
+					</div>
+
+					<div id="elementor-tab-content-25415" class="elementor-tab-content elementor-clearfix" data-tab="15" role="region" aria-labelledby="elementor-tab-title-25415"><p class="p1">We implement appropriate technical and organisational measures to ensure an appropriate level of security to Personal Data taking into account the risks that are presented by processing, in particular from accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to Personal Data transmitted, stored or otherwise processed.</p><p class="p1">We may be required, due to legal or other obligations outside Our control, to transfer Personal Data about you to third parties, such as public authorities. In such circumstances, We have limited control over the level of protection provided to the Personal Data about you by such third parties.</p><p class="p1">Any transfer of Personal Data via the internet cannot be fully secured. Therefore, the Company cannot ensure the protection of Personal Data about you when transferred via the internet to the Website and Application operated by the Company.</p></div>
+				</div>
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-25416" class="elementor-tab-title" data-tab="16" role="button" aria-controls="elementor-tab-content-25416" aria-expanded="false">
+												<span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
+															<span class="elementor-toggle-icon-closed"><svg class="e-font-icon-svg e-fas-caret-right" viewBox="0 0 192 512" xmlns="http://www.w3.org/2000/svg"><path d="M0 384.662V127.338c0-17.818 21.543-26.741 34.142-14.142l128.662 128.662c7.81 7.81 7.81 20.474 0 28.284L34.142 398.804C21.543 411.404 0 402.48 0 384.662z"></path></svg></span>
+								<span class="elementor-toggle-icon-opened"><svg class="elementor-toggle-icon-opened e-font-icon-svg e-fas-caret-up" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"></path></svg></span>
+													</span>
+												<a class="elementor-toggle-title" tabindex="0">16. Links To Websites of Third Parties</a>
+					</div>
+
+					<div id="elementor-tab-content-25416" class="elementor-tab-content elementor-clearfix" data-tab="16" role="region" aria-labelledby="elementor-tab-title-25416"><p class="p1">The Website and/or Application may provide links to websites and/or applications of third parties. The Company does not control such websites and applications, nor the collection and/or processing of Personal Data about you by such websites and applications, and We are not responsible for such websites and applications, nor to their privacy and data protection policies and activities. This Policy does not apply to any actions taken via such websites and/or applications.</p><p class="p1">Wherever you access such third parties&#8217; websites and/or applications, We recommend that you carefully review their privacy policies prior to using such websites and/or applications and prior to disclosing any Personal Data by you.</p></div>
+				</div>
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-25417" class="elementor-tab-title" data-tab="17" role="button" aria-controls="elementor-tab-content-25417" aria-expanded="false">
+												<span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
+															<span class="elementor-toggle-icon-closed"><svg class="e-font-icon-svg e-fas-caret-right" viewBox="0 0 192 512" xmlns="http://www.w3.org/2000/svg"><path d="M0 384.662V127.338c0-17.818 21.543-26.741 34.142-14.142l128.662 128.662c7.81 7.81 7.81 20.474 0 28.284L34.142 398.804C21.543 411.404 0 402.48 0 384.662z"></path></svg></span>
+								<span class="elementor-toggle-icon-opened"><svg class="elementor-toggle-icon-opened e-font-icon-svg e-fas-caret-up" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"></path></svg></span>
+													</span>
+												<a class="elementor-toggle-title" tabindex="0">17. Changes To This Policy</a>
+					</div>
+
+					<div id="elementor-tab-content-25417" class="elementor-tab-content elementor-clearfix" data-tab="17" role="region" aria-labelledby="elementor-tab-title-25417"><p class="p1">We may amend, from time to time, the terms of this Policy. Whenever We amend this Policy, We will notify such amendments by publishing the updated Policy on the Website and/or Application. In addition, when We make significant amendments of this Policy, We will strive to inform you about such amendments via means of communication which We believe are reasonably appropriate to inform you of such amendments and by publishing a notice about such amendments on the Website and/or Application. Unless stated otherwise, all amendments will enter into force upon publishing the updated Policy on the Website and/or Application.</p></div>
+				</div>
+								</div>
+				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+				<div class="post-tags">
+					</div>
+			</div>
+
+	
+</main>
+
+			<footer data-elementor-type="footer" data-elementor-id="2472" class="elementor elementor-2472 elementor-location-footer" data-elementor-post-type="elementor_library">
+			<div class="elementor-element elementor-element-cc205f7 e-con-full footer e-flex e-con e-child" data-id="cc205f7" data-element_type="container">
+		<div class="elementor-element elementor-element-ac4da5e e-con-full section-middle e-flex e-con e-child" data-id="ac4da5e" data-element_type="container">
+				<div class="elementor-element elementor-element-add8c19 elementor-widget elementor-widget-heading" data-id="add8c19" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-default">GET STARTED</h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-a87e155 title js-split-text elementor-widget elementor-widget-heading" data-id="a87e155" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Ready to find your lost funds?</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-1d55e23 blue-btn elementor-widget elementor-widget-button" data-id="1d55e23" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="index.html?p=3240">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Report your scam</span>
+					</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-991ea85 e-grid e-con-full e-con e-child" data-id="991ea85" data-element_type="container">
+		<div class="elementor-element elementor-element-a96e765 e-con-full e-flex e-con e-child" data-id="a96e765" data-element_type="container">
+				<div class="elementor-element elementor-element-92ba374 elementor-widget elementor-widget-heading" data-id="92ba374" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">DataForensics® 2024</p>		</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-be19e10 e-con-full footer-menu e-flex e-con e-child" data-id="be19e10" data-element_type="container">
+				<div class="elementor-element elementor-element-6e95bc8 link elementor-widget elementor-widget-heading" data-id="6e95bc8" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default"><a href="index.html?p=2529">About</a></p>		</div>
+				</div>
+				<div class="elementor-element elementor-element-0f8e37b link elementor-widget elementor-widget-heading" data-id="0f8e37b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default"><a href="index.html?p=2637">Report a scam</a></p>		</div>
+				</div>
+				<div class="elementor-element elementor-element-59da4cd link elementor-widget elementor-widget-heading" data-id="59da4cd" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default"><a href="index.html?p=2860">Our cases</a></p>		</div>
+				</div>
+				<div class="elementor-element elementor-element-5eb4dce link elementor-widget elementor-widget-heading" data-id="5eb4dce" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default"><a href="index.html?p=3117">FAQ</a></p>		</div>
+				</div>
+				<div class="elementor-element elementor-element-18d31ec link elementor-widget elementor-widget-heading" data-id="18d31ec" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default"><a href="index.html?p=3185">Contact</a></p>		</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-b6ff45e e-con-full e-flex e-con e-child" data-id="b6ff45e" data-element_type="container">
+				<div class="elementor-element elementor-element-0bc2be1 link elementor-widget elementor-widget-heading" data-id="0bc2be1" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default"><a href="index.html?p=3991">Terms and Conditions</a></p>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2a96254 link elementor-widget elementor-widget-heading" data-id="2a96254" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default"><a href="privacy-policy">Privacy Policy</a></p>		</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-da13876 elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile scripts e-flex e-con-boxed e-con e-parent" data-id="da13876" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-9cc92b1 elementor-widget elementor-widget-html" data-id="9cc92b1" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" /><link href='https://fonts.googleapis.com/css?family=DM Sans' rel='stylesheet'><style> :root {
+	--white: #FFFFFF;
+	--blue: #0D253C;
+	--mid-blue: #0F2A44;
+	--lite-blue: #D3E8FF;
+	--more-blue: #B6D0EE;
+	--dark-blue: #0F2A44;
+	--footer-blue: #0F2A44;
+}
+ul li {
+   text-indent: 0;
+}
+.blue h3 {
+    color:var(--lite-blue)!important;
+}
+::-webkit-scrollbar {
+	display: none;
+}
+.split-parent, .split-child {
+	overflow: hidden!important;
+	white-space: nowrap;
+}
+h1 .split-parent {
+	padding-bottom: 0vw;
+	margin-bottom: -1.2vw;
+}
+h1 .split-child {
+	padding-bottom: 1.3vw;
+	padding-right: 0.5vw;
+}
+.link a {
+	z-index: 10;
+	font-size: 1vw;
+	color: var(--white);
+	text-decoration: none;
+	padding-bottom: 0.2vw;
+}
+.link a:after {
+	display: block;
+	content: '';
+	border-bottom: solid 1px #fff;
+	transform: scaleX(0);
+	transition: transform 300ms ease-in-out;
+	transform-origin: 100% 0%;
+	padding-bottom: 0.2vw;
+}
+.link a:hover:after {
+	transform: scaleX(1);
+	transform-origin: 0 50%;
+}
+* {
+	transition: 0s!important;
+}
+html, body {
+	max-width: 100%;
+	overflow-x: hidden;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	background: var(--blue);
+}
+.page {
+	max-width: 84%;
+	margin: auto;
+	overflow: visible!important;
+}
+body {
+	overflow: -moz-scrollbars-none;
+	-ms-overflow-style: none;
+	scrollbar-width: none;
+	font-size: 1vw;
+	color: var(--white)!important;
+	font-family: 'DM Sans';
+	background: var(--blue);
+}
+html, body {
+	overflow-x: hidden !important;
+	overflow-y: auto !important;
+}
+img {
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-o-user-select: none;
+	user-select: none;
+	user-drag: none!important;
+	pointer-events: none;
+}
+.elementor-widget-image a img[src$=".svg"] {
+	width: unset!important;
+}
+html.lenis {
+	height: auto;
+}
+.lenis.lenis-smooth {
+	scroll-behavior: auto !important;
+}
+.lenis.lenis-smooth [data-lenis-prevent] {
+	overscroll-behavior: contain;
+}
+.lenis.lenis-stopped {
+	overflow: hidden;
+}
+.lenis.lenis-scrolling iframe {
+	pointer-events: none;
+}
+a {
+	color: unset!important;
+	cursor: pointer;
+}
+a:hover {
+	text-decoration: none;
+}
+h1, h2, h3, h4, h5, p {
+	font-weight: normal!important;
+	color: var(--white);
+	text-wrap: wrap;
+}
+h1, h2, h3, .elementor-button, .menu-links h5, input[type=button], input[type=submit], input[type=reset], .highlight h5, h6 {
+	font-family: 'SharpGrotesk'!important;
+}
+h1 {
+	font-size: 4vw;;
+	line-height: 1;
+	letter-spacing: -0.3vw;;
+}
+h2 {
+	font-size: 7.5vw;;
+	line-height: 0.86;;
+	letter-spacing: unset;
+}
+h3 {
+	font-size: 2.8vw;
+	line-height: 1.2;
+	letter-spacing: -0.2vw;
+}
+h4 {
+	font-size: 1.6vw;
+	line-height: 1.2;
+	letter-spacing: -0.08vw;
+	font-weight: 500!important;
+	font-family: 'DM Sans', sans-serif!important;
+}
+h5 {
+	font-family: 'DM Sans', sans-serif!important;
+	font-optical-sizing: auto;
+	font-style: normal;
+	font-size: 1.2vw;
+	line-height: 1.5!important;
+	color: var(--lite-blue);
+}
+h6 {
+	color: var(--lite-blue);
+	font-weight: 400;
+	text-transform: uppercase;
+	letter-spacing: 0.15vw;
+	font-size: 0.6vw;
+}
+p {
+	font-size: 1em;
+	font-weight: normal!important;
+	line-height: 1.6!important;
+	color: var(--more-blue);
+}
+.blue-heading-font h4 {
+	font-family: 'SharpGrotesk'!important;
+	font-weight: normal!important;
+	color: var(--lite-blue)!important;
+}
+.blue-bold-txt {
+	font-family: 'DM Sans', sans-serif!important;
+	font-optical-sizing: auto;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 2.5vw;
+	line-height: 1.5!important;
+	color: var(--lite-blue)!important;
+}
+.menu-links h5 {
+	font-size: 0.8vw;
+	font-weight: 500!important;
+	color: var(--white)!important;
+}
+.logo img {
+	margin-top: -1.2vw;
+	min-width: 14vw;
+	max-width: 14vw;
+}
+.nav {
+	position: fixed;
+	top: 0;
+	z-index: 5;
+	padding: 3vw 1.9vw !important;
+	width: 70vw !important;
+	padding-right: 0vw !important;
+	padding-left: 0vw !important;
+	border-bottom-left-radius: 1vw !important;
+	border-bottom-right-radius: 1vw !important;
+	transition: background 0.3s ease, padding 0.3s ease!important;
+}
+.nav.fixed {
+	background-color: rgba(8, 26, 44, 1) !important;
+	padding: 1.5vw 1.9vw !important;
+	width: 70.6vw !important;
+	transition: background 0.3s ease, padding 0.3s ease!important;
+}
+.section {
+	padding-top: 8vw;
+	padding-bottom: 6vw;
+}
+.hero {
+	margin-top: 3vw;
+}
+.section button {
+	all: unset!important;
+}
+.elementor-button {
+	border-radius: 0.6vw!important;
+	font-weight: 500;
+	padding: 0.5vw 0.8vw!important;
+	display: flex;
+	justify-content: center;
+	background: transparent!important;
+	border: 1px solid var(--white);
+	font-size: 0.8vw!important;
+}
+.cta-btn {
+	padding: 0.5vw 1vw!important;
+	border-radius: 0.4vw;
+		background: transparent!important;
+	color: var(--white)!important;
+	border: 1px solid var(--lite-blue);
+	transition: background 0.2s ease!important;
+	cursor: pointer;
+}
+.cta-btn:hover {
+	background: var(--lite-blue)!important;
+	color: var(--mid-blue)!important;
+	border: 1px solid var(--white);
+}
+.blue-btn {
+	padding: 0.5vw 1vw!important;
+	border-radius: 0.4vw;
+	background: var(--lite-blue)!important;
+	color: var(--mid-blue)!important;
+	border: 1px solid var(--lite-blue);
+	transition: background 0.2s ease!important;
+	cursor: pointer;
+}
+.blue-btn:hover {
+	background: transparent!important;
+	color: var(--white)!important;
+	border: 1px solid var(--white);
+}
+.form {
+	background-color: #F1F8FF;
+	border-radius: 0.8vw;
+	padding: 3vw;
+}
+.shortcodeform {
+	margin-top: 1vw;
+	margin-bottom: -1vw!important;
+}
+.elementor-element {
+	--widgets-spacing: 0px 0px!important;
+}
+.wpcf7-spinner {
+	display: none!important;
+}
+.form h3 {
+	color: var(--dark-blue)!important;
+	font-weight: 500!important;
+	font-size: 2vw!important;
+}
+::placeholder {
+	color: var(--blue)!important;
+	opacity: 1;
+}
+::-ms-input-placeholder {
+	color: var(--blue)!important;
+}
+input, label, select, button, textarea {
+	margin: 0;
+	border: 0;
+	padding: 0;
+	display: inline-block;
+	vertical-align: middle;
+	white-space: normal;
+	background: none;
+	line-height: 1;
+	width: 100%;
+}
+input:focus, button:focus, select:focus {
+	outline: 0!important;
+}
+label {
+	text-wrap: wrap;
+	color: var(--blue)!important;
+	font-size: 1vw!important;
+}
+input, select, textarea {
+	overflow: visible;
+	width: 100%;
+	padding: 0.4vw;
+	padding-left: 1vw;
+	font-size: 0.8vw!important;
+	font-weight: 500;
+	background: transparent;
+	border: 0.1vw solid var(--blue)!important;
+	border-radius: 0.5vw!important;
+	color: var(--blue)!important;
+}
+textarea {
+	min-height: 7vw;
+}
+select {
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+	background-image: url('wp-content/uploads/2024/04/drop-down-arrow.svg');
+	background-repeat: no-repeat;
+	background-position: right 0.5vw center;
+	background-size: 0.6vw;
+}
+input[type=button], input[type=submit], input[type=reset], .elementor-form .elementor-button .elementor-button-text {
+	background: rgb(28, 70, 109)!important;
+	background: linear-gradient(170deg, rgba(28, 70, 109, 1) 24%, rgba(15, 42, 68, 1) 100%)!important;
+	border: none;
+	color: var(--white)!important;
+	text-decoration: none;
+	cursor: pointer;
+	padding: 1vw 2vw!important;
+	font-weight:500!important;
+	border-radius:0.6vw!important;
+}
+.elementor-field-group .elementor-field-textual {
+	border: 0.08vw solid var(--blue)!important;
+	border-radius: 0.5vw!important;
+	color: var(--blue)!important;
+}
+#submit {
+    padding:0;
+    min-width:100%;
+    max-width:unset;
+    width:unset;
+}
+.elementor-form .elementor-button .elementor-button-text {
+    white-space: nowrap;
+    flex-grow: 1;
+    text-align: center;
+}
+.elementor-field-textual {
+    line-height: 1.2!important;
+    min-height: 2.5vw!important;
+	/*
+    max-height:2.5vw!important;
+*/
+    padding-left:1vw!important;
+    border-radius: 3px;
+    color:var(--blue)!important;
+}
+.wpcf7 form.invalid .wpcf7-response-output, .wpcf7 form.unaccepted .wpcf7-response-output, .wpcf7 form.payment-required .wpcf7-response-output {
+	border-color: #FFC1C1;
+	background: #FFC1C1;
+	color: var(--blue);
+}
+
+input:focus,
+button:focus,
+select:focus {
+      outline: 0!important;
+    }
+.highlight {
+	padding: 1.5vw;
+	border-radius: 0.5vw;
+	min-height: 10vw;
+}
+.highlight-numbers-box {
+	font-family: 'DM Sans', sans-serif!important;
+	font-weight: 500!important;
+	color: #CBE3FF!important;
+	font-size: 2.8vw!important;
+	letter-spacing: -0.2vw;
+}
+.highlight h5 {
+	text-transform: uppercase;
+	font-size: 0.8vw!important;
+}
+.verified img {
+	margin-top: 1.5vw;
+	min-width: 20vw;
+	max-width: 20vw;
+}
+.absolute-left img {
+	position: absolute;
+	left: -15vw;
+	min-width: 22vw;
+	max-width: 22vw;
+}
+.absolute-right img {
+	position: absolute;
+	right: -15vw;
+	min-width: 22vw;
+	max-width: 22vw;
+}
+.testimonial-box {
+	border-radius: 1vw;
+	background: #0B2034;
+	border: 0.8px solid #244467;
+	padding: 2.5vw;
+}
+.testimonial-box img {
+	min-width: 7vw;
+	max-width: 7vw;
+}
+.testimonial-box-double .avatar img {
+	min-width: 5vw;
+	max-width: 5vw;
+}
+.testimonial-box-double p {
+	line-height: 1.3!important;
+}
+.see-full-case a {
+	transition: all 0.3s ease!important;
+}
+.see-full-case a:hover {
+	color: var(--white)!important;
+}
+.fishing-box {
+	border-radius: 1vw;
+	background: #0B2034;
+	border: 0.8px solid #244467;
+}
+.fishing-box h3 {
+	font-size: 2.3vw!important;
+}
+.fishing-box h4 {
+	font-size: 1.6vw!important;
+}
+.fishing-box img {
+	min-width: 10vw;
+	max-width: 10vw;
+}
+.fishing-box h4 {
+	color: var(--lite-blue)!important;
+}
+.story-testi-box {
+	border-radius: 1vw;
+	background: #0B2034;
+	border: 0.8px solid #244467;
+}
+.story-testi-box h3 {
+	font-size: 1.8vw!important;
+	line-height: 1.4!important;
+	letter-spacing: -0.03vw!important;
+}
+.story-testi-box .quote-symbol img {
+	min-width: 6vw!important;
+	max-width: 6vw!important;
+}
+.see-full-case p {
+	font-weight: 600!important;
+	text-decoration: underline;
+	text-decoration-thickness: 0.5px;
+	text-underline-offset: 8px;
+}
+.inside-margin {
+	margin-top: 10vw;
+}
+.med-margin {
+	margin-top: 5vw;
+}
+.big-margin {
+	margin-top: 15vw;
+}
+.world-gradient img {
+	margin: auto!important;
+	min-width: 90vw;
+	position: absolute;
+	transform: translate(-50%, 0%);
+}
+.world-dots img {
+	position: relative;
+	top: 0.5vw;
+	right: 1vw;
+}
+.highlight-box {
+	border-radius: 0.71vw;
+	padding: 2vw;
+	min-height: 14vw;
+	width: 33vw;
+}
+.highlight-text {
+	font-size: 2vw;
+	font-weight: 500;
+	color: var(--lite-blue);
+	letter-spacing: -0.05vw;
+	max-width: 80%!important;
+}
+.highlight-icon img {
+	min-width: 2.5vw;
+	max-width: 2.5vw;
+}
+.how-it-works-image img {
+	min-width: 26vw;
+	max-width: 26vw;
+}
+.steps-arrows img {
+	position: relative;
+	left: -2vw;
+	min-width: 5vw;
+	max-width: 5vw;
+}
+.step {
+	display: flex!important;
+	flex-direction: column;
+	--gap: 1vw 1vw;
+}
+.inner-sections-image img {
+	min-width: 28vw;
+	max-width: 28vw;
+}
+.types-scams-image img {
+	min-width: 32vw;
+	max-width: 32vw;
+}
+.money-path-margin {
+	margin-top: -5vw;
+}
+.footer {
+	background-color: var(--footer-blue);
+	padding-bottom: 5vw;
+	padding-top: 8vw;
+	border-radius: 2vw;
+	max-width: 84%!important;
+	margin: auto;
+	margin-bottom: 5vw;
+}
+#elementor-panel-get-pro-elements-sticky {
+	display: none!important;
+}
+.wpcf7-not-valid-tip:nth-of-type(2) {
+	display: none!important;
+}
+.about-highlights {
+	max-width: 100%;
+}
+.about-highlights .highlight-box {
+	width: 20.8vw!important;
+}
+.about-highlights .highlight-icon img {
+	min-width: 7vw;
+	max-width: 7vw;
+}
+.testimonial-bold-line h5 {
+	color: var(--white)!important;
+	font-weight: bold!important;
+}
+.scams-bullet-check img {
+	min-width: 2.5vw;
+	max-width: 2.5vw;
+}
+.tab-menu a {
+	font-family: 'SharpGrotesk'!important;
+	font-weight: 500!important;
+	color: var(--lite-blue)!important;
+	font-size: 1.1vw!important;
+	background: transparent;
+	border: 1px solid var(--lite-blue);
+	border-radius: 1.2vw;
+	padding: 0.8vw 1.8vw;
+	transition: opacity 0.3s ease!important;
+}
+.tab-menu a:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+.tab-menu .selected a {
+	background: var(--white)!important;
+	color: var(--blue)!important;
+	pointer-events: none;
+}
+.tab-menu .selected a:hover {
+	opacity: 1;
+	cursor: default;
+}
+.case-cover-image img {
+	min-width: 70vw!important;
+}
+.ladder {
+    font-size:5vw;
+    color:var(--lite-blue);
+}
+.under-mark {
+  text-decoration: underline;
+  text-decoration-color: #88B7D8;
+  text-decoration-thickness: 0.4vw;
+  text-underline-offset: 0.4vw;
+}
+.contact-box {
+
+  border-bottom:1px solid #4A6183;
+  padding-bottom:2vw;
+}
+.contact-box .blue h4 {
+    color:var(--lite-blue)!important;
+    font-family: 'SharpGrotesk'!important;
+    text-transform: uppercase;
+    font-weight:normal!important;
+    font-size:1vw!important;
+}
+.contact-box h4 {
+    font-size:1.6vw!important;
+    font-family: 'SharpGrotesk'!important;
+    text-transform: none;
+    font-weight:normal!important;
+}
+.why-us-bullets {
+    display:flex;
+    justify-content: start;
+    align-items:start;
+}
+.why-us-bullets .highlight-box {
+    width:33vw;
+    min-height:13vw;
+        justify-content: center;
+    align-items:center;
+}
+.highlight-box p {
+        text-wrap: pretty!important;
+}
+
+.elementor-message {
+    font-size: 12px;
+}
+.elementor-message.elementor-message-danger:before {
+    content: "*"!important;
+}
+.elementor-message-success {
+    background: var(--blue);
+    border-radius: 0.5vw;
+    padding: 1vw;
+    font-size: 13px;
+}
+.elementor-message.elementor-message-success:before {
+    content: "✓"!important;
+}
+.elementor-alert {
+    display: none!important;
+}
+ textarea {
+    width: 100%;
+    min-height: 40px!important;
+    resize: vertical!important;
+    overflow: hidden; 
+}
+ 
+@media only screen and (max-width: 767px) {
+	.page {
+		max-width: 92%;
+		overflow: visible!important;
+	}
+	.section {
+		padding-top: 10vw;
+		padding-bottom: 8vw;
+		max-width: 92%;
+	}
+	.hero {
+		margin-top: 15vw;
+	}
+	h1 {
+		font-size: 9.5vw!important;
+		line-height: 1.2!important;
+		letter-spacing: -0.3vw!important;
+	}
+	h2 {
+		font-size: 7.5vw!important;
+		line-height: 0.86!important;
+		letter-spacing: unset;
+	}
+	h3 {
+		font-size: 6.8vw!important;
+		line-height: 1.2!important;
+		letter-spacing: -0.2vw!important;
+	}
+	h4 {
+		font-size: 5vw!important;
+		line-height: 1.2!important;
+		letter-spacing: -0.08vw!important;
+		font-weight: 500!important;
+	}
+	h5 {
+		font-family: 'DM Sans', sans-serif!important;
+		font-optical-sizing: auto;
+		font-style: normal;
+		font-size: 4vw;
+		line-height: 1.5!important;
+		color: var(--lite-blue)!important;
+	}
+	h6 {
+		color: var(--lite-blue);
+		font-weight: 400;
+		text-transform: uppercase;
+		letter-spacing: 0.15vw;
+		font-size: 3vw;
+	}
+	p {
+		font-size: 3.8em!important;
+		font-weight: normal!important;
+		line-height: 1.6!important;
+		color: var(--more-blue)!important;
+	}
+	.nav {
+		padding: 5vw 7vw !important;
+		border-bottom-left-radius: 3vw !important;
+		border-bottom-right-radius: 3vw !important;
+		width: 100%!important;
+		transition: all 0.3s ease!important;
+	}
+	.nav.fixed {
+		background-color: rgba(8, 26, 44, 1) !important;
+		padding: 5vw 7vw !important;
+		width: 100% !important;
+		transition: all 0.3s ease!important;
+	}
+	.logo img {
+		min-width: 55vw;
+		max-width: 55vw;
+		z-index: 99999!important;
+		position: relative;
+		top: -1.2vw;
+	}
+	.burger {
+		position: fixed!important;
+		right: 8vw;
+		min-width: 20vw;
+		max-width: 20vw;
+		padding: 30px;
+		z-index: 99999!important;
+	}
+	.burger img {
+		min-width: 12vw;
+		max-width: 12vw;
+	}
+	.menu-links .link h5 {
+		font-size: 1em;
+	}
+	.menu-links .elementor-button {
+		font-size: 3vw!important;
+		padding: 1.5vw 3vw!important;
+		border-radius: 4vw!important;
+		margin-top: 1.5vw;
+	}
+	.menu-links {
+		position: fixed;
+		top: 0vw;
+		right: 0vw;
+		width: 100%!important;
+		background: #081A2C!important;
+		z-index: 999!important;
+		pointer-events: none;
+		padding-top: 30vw;
+		padding-left: 8vw;
+		grid-gap: 5vw!important;
+		display: flex;
+		flex-direction: column!important;
+		justify-content: start;
+		align-items: start;
+		height: 100vh;
+		font-size: 5em!important;
+		pointer-events: none;
+		clip-path: inset(0 0 100% 0);
+		transition: clip-path 0.8s cubic-bezier(.55, 0, 0, 1)!important;
+	}
+	.menu-links.visible {
+		clip-path: inset(0 0 0 0);
+		pointer-events: auto;
+	}
+	.hero {
+		margin-top: 25vw!important;
+	}
+	.hero-gap {
+		display: flex;
+		flex-direction: column;
+		grid-gap: 4vw;
+	}
+	.highlights-bullets {
+		display: flex;
+	}
+	.highlight {
+		margin-top: 3vw;
+		margin-bottom: 3vw;
+		flex: 1!important;
+		height: 25vw;
+		border-radius: 2vw;
+		padding: 3vw;
+	}
+	.highlight-numbers-box {
+		font-size: 7vw!important;
+	}
+	.highlight h5 {
+		font-size: 2.4vw!important;
+	}
+	.verified img {
+		margin-top: 1.5vw;
+		min-width: 60vw;
+		max-width: 60vw;
+	}
+	.form {
+		margin-top: 10vw;
+		padding: 6vw;
+		border-radius:2vw!important;
+	}
+	.form h3 {
+		margin-top: 2vw;
+		font-size: 7vw!important;
+		line-height: 1!important;
+		margin-bottom: 6vw;
+	}
+	.wpcf7 form.invalid .wpcf7-response-output, .wpcf7 form.unaccepted .wpcf7-response-output, .wpcf7 form.payment-required .wpcf7-response-output {
+		font-size: 3.4em!important;
+	}
+	label {
+		text-wrap: wrap;
+		color: var(--blue)!important;
+		font-size: 5vw!important;
+	}
+	input, select, textarea {
+		overflow: visible;
+		width: 100%;
+		padding: 1.8vw;
+		padding-left: 2vw;
+		font-size: 4vw!important;
+		border-radius: 2vw!important;
+		color: var(--blue)!important;
+	}
+	textarea {
+		min-height: 35vw;
+	}
+	select {
+		background-position: right 2vw center;
+		background-size: 2.5vw;
+	}
+	input[type=button], input[type=submit], input[type=reset] {
+		padding: 5vw 2vw;
+	}
+	.blue-bold-txt {
+		font-size: 5.5vw;
+	}
+	.scammed-section {
+		position: relative;
+	}
+	.absolute-left img, .absolute-right img {
+		display: none;
+	}
+	.testimonial-box {
+		border-radius: 3vw;
+		background: #0B2034;
+		border: 0.8px solid #244467;
+		padding: 8vw;
+	}
+	.testimonial-box img {
+		min-width: 17vw;
+		max-width: 17vw;
+	}
+	.testimonial-box-double .avatar img {
+		min-width: 12vw;
+		max-width: 12vw;
+	}
+	.fishing-box img {
+		min-width: 25vw;
+		max-width: 25vw;
+	}
+	.fishing-box h3 {
+		font-size: 6vw!important;
+	}
+	.fishing-box h4 {
+		font-size: 4vw!important;
+	}
+	.see-full-case p {
+		margin-top: 5vw;
+	}
+	.highlight-box {
+		border-radius: 3vw;
+		padding: 6vw;
+		min-height: 44vw!important;
+		width: 100%!important;
+	}
+	.highlight-text {
+		font-size: 6vw;
+		font-weight: 500;
+		color: var(--lite-blue);
+		letter-spacing: -0.05vw;
+		max-width: 100%!important;
+	}
+	.highlight-icon img {
+		min-width: 8vw;
+		max-width: 8vw;
+	}
+	.how-it-works-image img {
+		margin-top: 15vw;
+		min-width: 100%;
+		max-width: 100%;
+	}
+	.push-globe {
+		margin-bottom: 20vw;
+	}
+	.steps-arrows img {
+		min-width: 14vw;
+		max-width: 14vw;
+		top: 12vw;
+	}
+	.step {
+		display: flex!important;
+		flex-direction: column;
+		--gap: 1vw 1vw;
+	}
+	.inner-sections-image img {
+		min-width: 100%;
+		max-width: 100%;
+		margin-top: 15vw!important;
+	}
+	.types-scams-image img {
+		min-width: 100%;
+		max-width: 100%;
+		margin-top: 15vw;
+	}
+	.elementor-button {
+		border-radius: 3vw!important;
+		font-weight: 500;
+		padding: 0.5vw 0.8vw!important;
+		font-size: 3vw!important;
+	}
+	.blue-btn {
+		padding: 2vw 3.5vw!important;
+		border-radius: 1.5vw;
+		font-size: 5vw!important;
+	}
+	.money-path-margin {
+		margin-top: -5vw;
+	}
+	.footer {
+		background-color: var(--footer-blue);
+		min-height: 45vw;
+		padding-bottom: 0;
+		margin: auto!important;
+		margin-top: 10vw!important;
+		margin-bottom: 10vw!important;
+		padding: 8vw;
+		padding-top: 15vw;
+		border-radius: 3vw;
+		min-width: 85%;
+	}
+	.footer .elementor-button {
+		padding: 2vw 8vw!important;
+	}
+	.footer-menu {
+		margin-bottom: 8vw;
+	}
+	.footer-menu p {
+		font-size: 5em!important;
+	}
+	.hide {
+		display: none!important;
+	}
+	.about-highlights {
+		max-width: 100%;
+	}
+	.about-highlights .highlight-box {
+		width: 100%!important;
+	}
+	.about-highlights .highlight-icon img {
+		min-width: 15vw;
+		max-width: 15vw;
+	}
+	.scams-bullet-check img {
+		min-width: 8vw;
+		max-width: 8vw;
+	}
+	.tab-menu a {
+		border-radius: 3vw;
+		padding: 2vw 3vw;
+		font-size: 3.5vw!important;
+	}
+	.story-testi-box h3 {
+		font-size: 4vw!important;
+	}
+	.story-testi-box .quote-symbol img {
+		min-width: 10vw!important;
+		max-width: 10vw!important;
+	}
+	.ladder {
+        font-size:8vw;
+    }
+    .under-mark {
+      text-decoration-thickness: 0.7vw;
+      text-underline-offset: 0.4vw;
+    }
+    .contact-box .blue h4 {
+        font-size:3vw!important;
+    }
+    .contact-box h4 {
+        font-size:4.8vw!important;
+    }
+
+    .elementor-field-group .elementor-field-textual {
+        line-height: 1.2!important;
+        min-height: 10.5vw!important;
+        max-height:10.5vw!important;
+        border: 0.3vw solid var(--blue)!important;
+        padding-left:3vw!important;
+        border-radius:2vw!important;
+        color:var(--blue)!important;
+    }
+    input[type=button], input[type=submit], input[type=reset], .elementor-form .elementor-button .elementor-button-text {
+        padding:4vw 4vw!important;
+        border-radius:2vw!important;
+    }
+    .elementor-3323 .elementor-element.elementor-element-2c3d4930 .elementor-form-fields-wrapper {
+        grid-gap: 1.5vw !important;
+    }
+     textarea {
+        width: 100%;
+        min-height: 40px!important;
+        resize: vertical!important;
+        overflow: hidden; 
+    }
+}
+</style>		</div>
+				</div>
+				<div class="elementor-element elementor-element-79a0e79 elementor-widget elementor-widget-html" data-id="79a0e79" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			
+<script src="https://unpkg.com/@studio-freight/lenis@1.0.34/dist/lenis.min.js"></script> 
+
+<script>
+    const lenis = new Lenis({
+        duration: 1,
+        easing: (t) => Math.min(1, 1.001 - Math.pow(2, -10 * t)),
+    });
+    
+    lenis.on('scroll', (e) => {
+        console.log(e);
+    });
+
+    function raf(time) {
+        lenis.raf(time);
+        requestAnimationFrame(raf);
+    }
+
+    requestAnimationFrame(raf);
+</script>		</div>
+				</div>
+				<div class="elementor-element elementor-element-13298c8 elementor-widget elementor-widget-html" data-id="13298c8" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<script src="https://gsapfiles.netlify.app/gsap.min.js"></script>
+<script src="https://gsapfiles.netlify.app/scrolltrigger.min.js"></script>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        function showTitleAndAnimate(title) {
+            gsap.registerPlugin(SplitText, ScrollTrigger);
+
+            const childSplit = new SplitText(title, {
+                type: "lines", // Split by lines
+                linesClass: "split-child",
+            });
+
+            const parentSplit = new SplitText(title, {
+                type: "lines", // Split by lines
+                linesClass: "split-parent",
+            });
+
+            gsap.from(childSplit.lines, {
+                scrollTrigger: title,
+                duration: 1.2,
+                yPercent: 200,
+                ease: "power4.out",
+                skewY: 6,
+                stagger: 0.15,
+                opacity: 1
+            });
+        }
+
+        const headings = gsap.utils.toArray("h1, h3");
+
+        headings.forEach(function(title) {
+            title.style.visibility = "hidden";
+        });
+
+        headings[0].style.visibility = "visible";
+        showTitleAndAnimate(headings[0]);
+
+        for (let i = 1; i < headings.length; i++) {
+            setTimeout(function() {
+                headings[i].style.visibility = "visible";
+                showTitleAndAnimate(headings[i]);
+            }, 0 * i);
+        }
+    });
+</script>
+
+
+
+<script>
+// Function to prevent scrolling on refresh
+function preventScrollOnRefresh() {
+  window.scrollTo(0, 0);
+}
+
+// Event listener to prevent scrolling before refreshing
+window.addEventListener('unload', preventScrollOnRefresh);
+</script>
+
+  
+<script>
+  gsap.registerPlugin(ScrollTrigger);
+
+  gsap.from('.absolute-right', {
+    scrollTrigger: {
+      trigger: '#scamed',
+      start: 'top center',
+      end: 'bottom bottom',
+      scrub: 1.1,
+    },
+    xPercent: 200,
+    rotation: 30
+  });
+  
+  gsap.from('.absolute-left', {
+    scrollTrigger: {
+      trigger: '#scamed',
+      start: 'top center',
+      end: 'bottom bottom',
+      scrub: 1.1,
+    },
+    xPercent: -200,
+    rotation: -30
+  });
+ 
+ 
+</script>
+
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const burger = document.querySelector('.burger');
+    const menuLinks = document.querySelector('.menu-links');
+    let menuVisible = false;
+
+    burger.addEventListener('click', function() {
+      menuVisible = !menuVisible;
+      if (menuVisible) {
+        menuLinks.classList.add('visible');
+      } else {
+        menuLinks.classList.remove('visible');
+      }
+    });
+  });
+</script>
+
+<script>
+    const nav = document.querySelector('.nav');
+
+    window.addEventListener('scroll', function() {
+        if (window.scrollY > 150) { // Adjust this value to change the offset
+            nav.classList.add('fixed');
+        } else {
+            nav.classList.remove('fixed');
+        }
+    });
+</script>
+
+<!--
+   <script>
+        // JavaScript for screens wider than 767px
+        if (window.innerWidth > 767) {
+            var prevScrollpos = window.pageYOffset;
+            window.onscroll = function() {
+                var currentScrollPos = window.pageYOffset;
+                var nav = document.getElementById("hide-header");
+
+                if (prevScrollpos > currentScrollPos) {
+                    nav.style.top = "0";
+                } else {
+                    nav.style.top = "-10vw"; /* Adjust this value to the height of your nav */
+                }
+                prevScrollpos = currentScrollPos;
+            }
+        }
+    </script>
+    
+        <style>
+    /* Show Hide Sticky Header Speed Control */
+    #hide-header {
+        transition: all 0.6s ease!important;
+    }
+    </style>
+    
+    -->
+
+		</div>
+				</div>
+				<div class="elementor-element elementor-element-e2206d1 elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-html" data-id="e2206d1" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			
+
+<script>
+// Disable Elementor add-ons and remove script libraries
+function disableElementorAddons() {
+    // Get all Elementor widgets
+    var elementorWidgets = document.querySelectorAll('.elementor-widget');
+
+    // Loop through each widget
+    elementorWidgets.forEach(function(widget) {
+        // Check if the widget has any add-on classes
+        var addonClasses = widget.className.match(/elementor-addon-[a-zA-Z0-9_-]+/g);
+
+        // If add-on classes are found, remove them
+        if (addonClasses) {
+            addonClasses.forEach(function(addonClass) {
+                widget.classList.remove(addonClass);
+            });
+        }
+    });
+
+    console.log('All Elementor add-ons disabled.');
+
+    // Remove script libraries
+    var scriptTags = document.querySelectorAll('script[src]');
+    scriptTags.forEach(function(scriptTag) {
+        // Check if the script is not being used at the moment
+        if (!scriptTag.parentNode.classList.contains('elementor-edit-area')) {
+            scriptTag.remove();
+            console.log('Script library removed:', scriptTag.src);
+        }
+    });
+}
+
+// Call the function to disable Elementor add-ons and remove script libraries when the page loads
+document.addEventListener('DOMContentLoaded', function() {
+    disableElementorAddons();
+});
+
+</script>
+
+<script>
+    function disableImgDragging() {
+	var images = document.getElementsByTagName("img");
+	for(var i = 0 ; i < images.length ; i++) {
+		images[i].classList.add('no-drag');
+		images[i].setAttribute('no-drag', 'on');
+		images[i].setAttribute('draggable', 'false');
+		images[i].addEventListener('dragstart', function( event ) {
+			event.preventDefault();
+		}, false);	
+	}
+}
+disableImgDragging();
+</script>
+
+<script>
+    function disableHorizontalScroll() {
+  var isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+
+  if (isMobile) {
+    document.body.style.touchAction = 'pan-y';
+  }
+}
+
+disableHorizontalScroll();
+</script>
+
+
+    <script>
+        var textarea = document.getElementById('message');
+
+        textarea.addEventListener('input', function() {
+            if (this.scrollHeight > this.clientHeight) {
+                this.style.height = this.scrollHeight + 'px';
+            }
+        });
+    </script>		</div>
+				</div>
+				<div class="elementor-element elementor-element-a75e1dc elementor-widget elementor-widget-html" data-id="a75e1dc" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<script>
+  $(document).ready(function(){
+    $('body').addClass('body-loaded');
+    $('a[href]:not([href^="#"]):not([href^="tel"])').click(function(event){
+      if (!event.ctrlKey && !event.shiftKey && !event.metaKey && !$(this).attr('target')) {
+        event.preventDefault();
+        var url = $(this).attr('href');
+        $('body').addClass('body-loader');
+        gsap.to('body::before, body::after', { height: '100%', duration: 0.8, onComplete: function() {
+          window.location.href = url;
+        }});
+      }
+    });
+  });
+</script>
+
+
+
+
+
+4o
+
+		</div>
+				</div>
+					</div>
+				</div>
+				</footer>
+		
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/hello-elementor\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+
+  <!-- AI Assistant -->
+  <div id="ai-assistant">
+    <div id="chatbot-button">
+      <img src="wp-content/plugins/wp-ai-assistant/public/images/emily.png" alt="Chatbot" />
+    </div>
+  </div>
+  <!-- AI Chat -->
+  <div id="ai-chat" class="card z-3 invisible">
+    <div class="card-header-custom d-flex justify-content-between align-items-center p-3 text-white border-bottom-0">
+      <div class="chatbot_info">
+        <img src="wp-content/plugins/wp-ai-assistant/public/images/emily.png" alt="Chatbot" />
+        <div class="chatbot_text">
+          <span class="chatbot_name">Emily</span>
+          <span class="chatbot_status">Online</span>
+        </div>
+      </div>
+      <div class="chat_actions">
+        <!-- <div id="ai-clear-chat"><i class="fa-solid fa-xmark"></i></div> -->
+        <div id="ai-close-chat"><i class="fa-solid fa-minus"></i></div>
+      </div>
+    </div>
+    <div class="card-body">
+      <div id="ai-chat-wrapper" data-lenis-prevent>
+        <!-- <div class="d-flex flex-row justify-content-start mb-4">
+          <div class="p-3 ms-3 ai-message">
+            <p class="small mb-0">
+              Hi, I&#039;m Emily. How can I help with your case?            </p>
+          </div>
+        </div> -->
+      </div>
+
+      <form id="ai-chat-form">
+        <div>
+          <textarea id="ai-user-message" name="ai-user-message" class="form-control" rows="3" placeholder="Type your message..." required></textarea>
+          <button id="ai-send-button" name="ai-send-button" type="submit" class="btn btn-primary"><i class="fa-solid fa-paper-plane"></i></button>
+        </div>
+        <!-- <div class="g-recaptcha mb-3" data-sitekey="6LcaGt0pAAAAAGjMY2RESKiRscNK6EUtKMZDMJFN"></div> -->
+      </form>
+
+    </div>
+  </div><script>
+    document.addEventListener("DOMContentLoaded", function() {
+        var checkInterval = setInterval(function() {
+            var utmInput = document.getElementById("form-field-utm_dict");
+            if (utmInput) {
+                var value = utmInput.value.trim();
+                try {
+                    console.log(value);
+                    var utmData = JSON.parse(value);
+                    if (Object.keys(utmData).length > 0) {
+                        document.cookie = "utm_dict=" + encodeURIComponent(value) + "; path=/; max-age=" + (7 * 24 * 60 * 60);
+                        localStorage.setItem("utm_dict", value);
+                        clearInterval(checkInterval); // stop the loop
+                    }
+                } catch (e) {
+                    // Invalid JSON, ignore and keep checking
+                }
+            }
+        }, 1000);
+    });
+</script>			<script type='text/javascript'>
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+			<link rel='stylesheet' id='e-animations-css' href='wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.21.5' media='all' />
+<script src="wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.9.4" id="swv-js"></script>
+<script id="contact-form-7-js-extra">
+var wpcf7 = {"api":{"root":"https:\/\/www.data-forensics.de\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+</script>
+<script src="wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.9.4" id="contact-form-7-js"></script>
+<script src="wp-content/plugins/wp-ai-assistant/public/js/bootstrap.min.js?ver=5.3.3" id="bootstrap-js-js"></script>
+<script src="wp-content/plugins/wp-ai-assistant/public/js/purify.min.js?ver=3.2.4" id="dompurify-js-js"></script>
+<script id="ai-assistant-js-js-extra">
+var aiAssistant = {"ajax_url":"https:\/\/www.data-forensics.de\/wp-admin\/admin-ajax.php","nonce":"ada8c3296e","images":"https:\/\/www.data-forensics.de\/wp-content\/plugins\/wp-ai-assistant\/public\/images\/","welcome":"Hi, I'm Emily. How can I help with your case?"};
+</script>
+<script src="wp-content/plugins/wp-ai-assistant/public/js/script.js?ver=1.0.7" id="ai-assistant-js-js"></script>
+<script src="wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.21.0" id="elementor-pro-webpack-runtime-js"></script>
+<script src="wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.21.5" id="elementor-webpack-runtime-js"></script>
+<script src="wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script src="wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.21.5" id="elementor-frontend-modules-js"></script>
+<script src="wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6" id="wp-hooks-js"></script>
+<script src="wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script id="elementor-pro-frontend-js-before">
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.data-forensics.de\/wp-admin\/admin-ajax.php","nonce":"8d71541add","urls":{"assets":"https:\/\/www.data-forensics.de\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/www.data-forensics.de\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/www.data-forensics.de\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script src="wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.21.0" id="elementor-pro-frontend-js"></script>
+<script src="wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2" id="elementor-waypoints-js"></script>
+<script src="wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+<script id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselWrapperAriaLabel":"Carousel | Horizontal scrolling: Arrow Left & Right","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.21.5","is_static":false,"experimentalFeatures":{"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"e_font_icon_svg":true,"container":true,"container_grid":true,"e_optimized_control_loading":true,"theme_builder_v2":true,"hello-theme-header-footer":true,"home_screen":true,"e_lazyload":true,"display-conditions":true,"form-submissions":true,"taxonomy-filter":true},"urls":{"assets":"https:\/\/www.data-forensics.de\/wp-content\/plugins\/elementor\/assets\/"},"swiperClass":"swiper-container","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":4016,"title":"Privacy%20Policy%20%E2%80%93%20DataForensics%20%E2%80%93%20We%20Can%20Track%20Your%20Stolen%20Funds.","excerpt":"","featuredImage":false}};
+</script>
+<script src="wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.21.5" id="elementor-frontend-js"></script>
+<script src="wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.21.0" id="pro-elements-handlers-js"></script>
+	<script src="https://gsapfiles.netlify.app/gsap.min.js"></script>
+    <script src="https://gsapfiles.netlify.app/scrolltrigger.min.js"></script>
+    <script src="https://gsapfiles.netlify.app/splittext.min.js"></script>
+
+</body>
+</html>
+
+<!-- Cache served by breeze CACHE - Last modified: Wed, 18 Jun 2025 00:37:56 GMT -->

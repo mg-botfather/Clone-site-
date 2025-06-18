@@ -1,0 +1,258 @@
+
+try {
+document.addEventListener('DOMContentLoaded', function() {
+    const assistantIcon = document.getElementById('ai-assistant'),
+          chat = document.getElementById('ai-chat'),
+          sendButton = document.getElementById('ai-send-button'),
+          closeChat = document.getElementById('ai-close-chat'),
+          clearChat = document.getElementById('ai-clear-chat'),
+          chatForm = document.getElementById('ai-chat-form'),
+          userMessageInput = document.getElementById('ai-user-message'),
+          chatWrapper = document.getElementById('ai-chat-wrapper');
+    const FIRST_TIME_KEY = 'ai_assistant_first_time_shown';
+    const STORAGE_KEY = 'tZdNCBxwykKp28q9gW3r5vUYhD';
+    const EXPIRY_KEY = 'ejLSd3npB7z4GUYT8MsRNEZm6A';
+    const ONE_DAY_MS = 24 * 60 * 60 * 1000;
+    const CHAT_ID_KEY = 'AI_ASSISTANT_CHAT_ID';
+
+    function toggleChatVisibility() {
+        const isFirstTime = !localStorage.getItem(FIRST_TIME_KEY);
+
+        chat.classList.toggle('invisible');
+        assistantIcon.classList.toggle('invisible');
+
+        if (!chat.classList.contains('invisible') && isFirstTime) {
+            localStorage.setItem(FIRST_TIME_KEY, '1');
+
+            const typingIndicator = document.createElement('div');
+            typingIndicator.id = 'ai-typing';
+            typingIndicator.classList.add('d-flex', 'justify-content-start', 'mb-4');
+
+            const typingContent = document.createElement('div');
+            typingContent.classList.add('p-3', 'ms-3', 'ai-message');
+
+            const typingImg = document.createElement('img');
+            typingImg.src = `${aiAssistant.images}typing.gif`;
+            typingImg.alt = 'Loading...';
+            typingImg.style.height = '30px';
+
+            typingContent.appendChild(typingImg);
+            typingIndicator.appendChild(typingContent);
+            chatWrapper.appendChild(typingIndicator);
+            typingIndicator.scrollIntoView({ behavior: 'smooth' });
+
+            setTimeout(() => {
+                typingIndicator.remove();
+                const welcomeMessage = aiAssistant.welcome || 'How can I assist you today?';
+                displayMessage(welcomeMessage, 'ai');
+            }, 1500);
+        }
+    }
+
+    assistantIcon.addEventListener('click', toggleChatVisibility);
+    closeChat.addEventListener('click', toggleChatVisibility);
+
+    chatForm.addEventListener('submit', function(event) {
+        event.preventDefault();
+        sendMessage();
+    });
+
+    userMessageInput.addEventListener('keydown', function(event) {
+        if (event.key === 'Enter' && !event.shiftKey) {
+            event.preventDefault();
+            sendMessage();
+        }
+    });
+
+    function sendMessage() {
+        const userMessage = DOMPurify.sanitize(userMessageInput.value.trim());
+        if (!userMessage) return;
+
+        sendButton.disabled = true;
+        displayMessage(userMessage, 'user');
+        userMessageInput.value = "";
+
+        const typingIndicator = document.createElement('div');
+        typingIndicator.id = 'ai-typing';
+        typingIndicator.classList.add('d-flex', 'justify-content-start', 'mb-4');
+
+        const typingContent = document.createElement('div');
+        typingContent.classList.add('p-3', 'ms-3', 'ai-message');
+
+        const typingImg = document.createElement('img');
+        typingImg.src = `${aiAssistant.images}typing.gif`;
+        typingImg.alt = 'AI is typing...';
+        typingImg.style.height = '30px';
+
+        typingContent.appendChild(typingImg);
+        typingIndicator.appendChild(typingContent);
+        chatWrapper.appendChild(typingIndicator);
+        typingIndicator.scrollIntoView({ behavior: 'smooth' });
+
+        const chatHistory = localStorage.getItem(STORAGE_KEY);
+        const chatId = getChatId();
+        const data = new FormData();
+        data.append('action', 'ai_assistant_chat');
+        data.append('nonce', aiAssistant.nonce);
+        data.append('user_message', userMessage);
+        data.append('chat_history', chatHistory);
+        data.append('chat_id', chatId);
+
+        fetch(aiAssistant.ajax_url, {
+            method: 'POST',
+            body: data
+        })
+        .then(response => response.json())
+        .then(response => {
+            const typing = document.getElementById('ai-typing');
+            if (typing) typing.remove();
+
+            displayMessage(response.data, 'ai');
+        })
+        .catch(() => {
+            const typing = document.getElementById('ai-typing');
+            if (typing) typing.remove();
+
+            displayMessage('Sorry, there was an error communicating with the server.', 'ai');
+        })
+        .finally(() => sendButton.disabled = false);
+    }
+
+    function displayMessage(message, type, shouldSave = true, timestamp = null) {
+        const messageContainer = document.createElement('div');
+        messageContainer.classList.add('d-flex', 'flex-column', 'mb-4');
+        messageContainer.classList.add(type === 'ai' ? 'align-items-start' : 'align-items-end');
+
+        const contentRow = document.createElement('div');
+        contentRow.classList.add('d-flex', type === 'ai' ? 'justify-content-start' : 'justify-content-end', 'w-100');
+
+        const messageContent = document.createElement('div');
+        messageContent.classList.add('p-3', type === 'ai' ? 'ms-3' : 'me-3', `${type}-message`);
+
+        const messageText = document.createElement('p');
+        messageText.classList.add('small', 'mb-0');
+        messageText.textContent = message;
+
+        messageContent.appendChild(messageText);
+        contentRow.appendChild(messageContent);
+        messageContainer.appendChild(contentRow);
+
+        const timeText = document.createElement('div');
+        timeText.classList.add('message-datetime');
+        const time = timestamp ? new Date(timestamp) : new Date();
+        timeText.textContent = formatTimeOrDate(time);
+        messageContainer.appendChild(timeText);
+
+        chatWrapper.appendChild(messageContainer);
+        messageContainer.scrollIntoView({ behavior: 'smooth' });
+
+        if (shouldSave) {
+            saveMessageToHistory(message, type);
+        }
+    }
+
+    function formatTimeOrDate(date) {
+        const now = new Date();
+        const isToday = date.toDateString() === now.toDateString();
+        const options = { hour: 'numeric', minute: '2-digit', hour12: true };
+
+        return isToday
+            ? date.toLocaleTimeString([], options)
+            : date.toLocaleDateString([], { year: 'numeric', month: 'short', day: 'numeric' }) + ' at ' + date.toLocaleTimeString([], options);
+    }
+
+    function clearMessages() {
+        while (chatWrapper.firstChild) {
+            chatWrapper.removeChild(chatWrapper.firstChild);
+        }
+        localStorage.removeItem(STORAGE_KEY);
+        localStorage.removeItem(EXPIRY_KEY);
+    }
+
+    function saveMessageToHistory(content, type) {
+        let history = JSON.parse(localStorage.getItem(STORAGE_KEY)) || [];
+        const timestamp = new Date().toISOString();
+        history.push({ content, type, timestamp });
+        localStorage.setItem(STORAGE_KEY, JSON.stringify(history));
+        localStorage.setItem(EXPIRY_KEY, (Date.now() + ONE_DAY_MS).toString());
+    }
+
+    async function loadChatHistory() {
+        const chatId = getChatId();
+    
+        try {
+            aiAssistant.api_url = `${aiAssistant.ajax_url}?action=get_chat_messages`;
+            const response = await fetch(`${aiAssistant.api_url}&chat_id=${encodeURIComponent(chatId)}`);
+            if (!response.ok) throw new Error('Network response was not ok');
+    
+            const result = await response.json();
+    
+            if (result.success && Array.isArray(result.data)) {
+                result.data.forEach(msg =>
+                    displayMessage(msg.content, msg.type, false, msg.timestamp)
+                );
+            } else {
+                console.warn('Unexpected data format from API', result);
+            }
+        } catch (error) {
+            console.error('Failed to load chat history:', error);
+        }
+    }
+
+    function generateChatId() {
+        return 'chat-' + Math.random().toString(36).substr(2, 9) + '-' + Date.now();
+    }
+    
+    function getChatId() {
+        let id = localStorage.getItem(CHAT_ID_KEY);
+        if (!id) {
+            id = generateChatId();
+            localStorage.setItem(CHAT_ID_KEY, id);
+        }
+        return id;
+    }
+
+    loadChatHistory();
+
+    if (!localStorage.getItem(FIRST_TIME_KEY)) {
+        setTimeout(() => {
+            toggleChatVisibility();
+        }, 2000);
+    }
+});
+
+// Breathing animation for floating button
+const chatbot = document.getElementById("chatbot-button");
+let scale = 1, blur = 0, spread = 0, opacity = 0, direction = 1, anim;
+
+function breathe() {
+    scale += direction * 0.002;
+    if (scale >= 1.12 || scale <= 1) direction *= -1;
+
+    blur += direction * 0.6;
+    spread += direction * 0.2;
+    opacity += direction * 0.005;
+
+    blur = Math.max(0, Math.min(30, blur));
+    spread = Math.max(0, Math.min(10, spread));
+    opacity = Math.max(0.1, Math.min(0.4, opacity));
+
+    chatbot.style.transform = `scale(${scale})`;
+    chatbot.style.boxShadow = `0 0 ${blur}px ${spread}px rgba(36, 68, 103, ${opacity})`;
+
+    anim = requestAnimationFrame(breathe);
+}
+breathe();
+
+chatbot.addEventListener("mouseenter", () => {
+    cancelAnimationFrame(anim);
+    chatbot.style.transform = "scale(1.12)";
+    chatbot.style.boxShadow = "0 0 30px 15px rgba(36, 68, 103, 0.4)";
+});
+chatbot.addEventListener("mouseleave", () => {
+    direction = -1;
+    breathe();
+});
+} catch (e) {
+    console.error('Chat initialization error:', e);
+}
